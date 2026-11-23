@@ -1,0 +1,13 @@
+{
+  "name": "dafeiyu-nianan-backend",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "description": "大肥鱼 · 念安内核（本机后台）",
+  "dependencies": {
+    "playwright-core": "1.64.0"
+  },
+  "scripts": {
+    "test": "node ../scripts/test-backend.cjs"
+  }
+}

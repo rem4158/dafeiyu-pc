@@ -1,0 +1,8 @@
+* text=auto
+*.vbs text eol=crlf
+*.webp binary
+*.webm binary
+*.png binary
+*.mp3 binary
+*.wav binary
+*.onnx binary

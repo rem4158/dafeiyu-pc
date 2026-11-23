@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' file:; connect-src 'none'; object-src 'none'; base-uri 'none'">
+<title>大肥鱼 · 记忆星云</title><link rel="stylesheet" href="sky.css"></head>
+<body>
+<main id="universe">
+  <div class="portrait" aria-hidden="true"></div>
+  <canvas id="sky" aria-label="可旋转的四层记忆星云"></canvas>
+  <div id="captions" aria-hidden="true"><span id="star-title" hidden></span></div>
+  <header><div class="brand"><b aria-hidden="true">✦</b><h1>记忆星云 <small>大肥鱼</small></h1></div>
+    <div class="header-meta"><span id="count">—</span> 颗记忆星 <i></i><span id="status" role="status">正在读取</span></div></header>
+  <aside class="navigation pane">
+    <h2>星区导航</h2><canvas id="map" aria-hidden="true"></canvas>
+    <div class="line"></div><h2>记忆构成</h2><div id="layers"></div>
+  </aside>
+  <aside class="inspector pane">
+    <div class="panel-title"><h2 id="detail-heading">星云概览</h2><button id="back" hidden>返回全景</button></div>
+    <section id="detail" aria-live="polite"></section>
+    <div class="line"></div>
+    <label for="search">查找记忆</label><input id="search" type="search" placeholder="输入你记得的片段" autocomplete="off">
+    <div id="results"></div><button id="more" hidden>再看一些</button>
+  </aside>
+  <footer><div class="sky-actions"><button id="pause" aria-pressed="false">暂停旋转</button><button id="reset">全景</button><button id="minus" aria-label="缩小">−</button><button id="plus" aria-label="放大">＋</button></div>
+    <span id="hint" class="hint">点击云团进入星域 · 拖动旋转 · 滚轮缩放</span><button id="refresh">刷新记忆</button></footer>
+</main>
+<script src="scene.js"></script><script src="interface.js"></script></body></html>

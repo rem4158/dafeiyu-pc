@@ -1,0 +1,2559 @@
+{
+  "version": 1,
+  "reviewed_on": "2026-11-04",
+  "review_method": "per_image_visual_review_with_animation_samples",
+  "notes": "原目录只用于查找素材；逐图文字、含义与语气优先。歧义不等于确定的用户心理；不清部分保持未知。",
+  "entries": {
+    "deepseek-fanart-meme-pack/memes/affection/0003_sticker_bf_004.webp": {
+      "review_number": 1,
+      "sha256": "735c51f2e41c47a99d6d841028bf21b6ec74e41ff715d63f0323394d33b85338",
+      "name": "杂鱼♡",
+      "text": "杂鱼♡",
+      "meaning": "用“杂鱼”挖苦或挑衅对方，捂嘴坏笑并带爱心，可是玩笑式嘲讽。",
+      "tone": [
+        "嘲讽",
+        "挑衅",
+        "可能带玩笑"
+      ],
+      "usage": "轻蔑调侃、逗对方反应",
+      "cautions": "爱心不等于赞美或感谢；认真辱骂与熟人玩笑需看上下文。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0016_sticker_bf_021.png": {
+      "review_number": 2,
+      "sha256": "0e3334b1ec1b3d6b553a54cddae75c2d126351bb86629e18b4928b30f0e7503e",
+      "name": "托腮大肥鱼头像",
+      "text": "大肥鱼；Always swimming.；Deep, but with you.；有小魚乾，我就幹活。……大概。",
+      "meaning": "蓝发鲸系角色托腮看向前方，配有小鱼干换干活的玩笑文案。",
+      "tone": [
+        "慵懒",
+        "柔和",
+        "玩笑"
+      ],
+      "usage": "展示角色形象、轻松陪伴或用奖励换干活的玩笑",
+      "cautions": "这是插画和装饰文案，不能据此断言发送者喜欢谁或正在工作。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0090_sticker_bf_129.webp": {
+      "review_number": 3,
+      "sha256": "995c5bd42fef0d9f7524bfd400326012d152c29561c4d1bb31f14915f19df8eb",
+      "name": "梁圣伟大与圈米吐槽",
+      "text": "梁圣伟大；梁文锋又开始圈米了",
+      "meaning": "同一图一面夸赞，一面吐槽又开始收费或赚钱，带反讽。",
+      "tone": [
+        "夸张赞叹",
+        "讽刺",
+        "吐槽"
+      ],
+      "usage": "调侃先夸后吐槽、收费话题",
+      "cautions": "是图片里的观点梗，不是对真人行为的核实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0097_sticker_bf_141.webp": {
+      "review_number": 4,
+      "sha256": "bc4b1d1d753ec7f901365325b77c7e1078e791ca7cd397db2d65e9da98894cfd",
+      "name": "摸鱼抱鲸",
+      "text": "摸鱼",
+      "meaning": "笑着抱住鲸玩偶，借“摸鱼”表达休息、偷闲或暂不干活。",
+      "tone": [
+        "轻松",
+        "开心"
+      ],
+      "usage": "工作间隙偷闲、休息或开摸鱼玩笑",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0102_sticker_bf_147.png": {
+      "review_number": 5,
+      "sha256": "38721af1f474d8f8bd717e3aad3f3f5da861a1261b40dfc4ea06bdd18de26cfc",
+      "name": "我比你贵",
+      "text": "我比你贵",
+      "meaning": "角色贴近另一角色耳边说“我比你贵”，是价格或身价比较的玩笑。",
+      "tone": [
+        "得意",
+        "调侃"
+      ],
+      "usage": "调侃价格、身价比较",
+      "cautions": "不表示真实价格，也不自动表示亲密示爱。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0127_sticker_bf_184.png": {
+      "review_number": 6,
+      "sha256": "d557713ae669399be854107893ca1c1b23f7376f8cd06694a123ae0bc40d41b4",
+      "name": "你当我是便宜货啊",
+      "text": "¥2626；你当我是便宜货啊",
+      "meaning": "拿着价格标牌反问，表达不愿被看低或对便宜的说法不服。",
+      "tone": [
+        "反问",
+        "不服",
+        "玩笑"
+      ],
+      "usage": "被低估、谈价格或故作身价高的吐槽",
+      "cautions": "2626为图中标价，不代表实际收费。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/affection/0144_sticker_bf_203.jpg": {
+      "review_number": 7,
+      "sha256": "6db2bffe6ff7c81226e0ea0b06d98872679140fc73614ca3d06fa0864f8c47e6",
+      "name": "不像碳基生物的夸奖",
+      "text": "我和你很聊得来，你简直不像碳基生物",
+      "meaning": "把聊得来和“不像碳基生物”并置，是关于人与AI聊天的反差夸奖。",
+      "tone": [
+        "调侃",
+        "反差夸奖"
+      ],
+      "usage": "聊得来、非人感或AI梗",
+      "cautions": "可能是善意赞美也可能是反讽，不能按字面断言对方身份。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0004_sticker_bf_006.webp": {
+      "review_number": 8,
+      "sha256": "b178ddbf71b5cb22109ea0776c589c575e145b6700fafdf984ccce86620cb72f",
+      "name": "用户彻底怒了",
+      "text": "用户彻底怒了",
+      "meaning": "图中角色面对生气的人影惊慌，文案宣称“用户彻底怒了”。",
+      "tone": [
+        "惊慌",
+        "夸张",
+        "可能吐槽"
+      ],
+      "usage": "用梗表达把对方惹怒或担心惹怒对方",
+      "cautions": "图片叙述不等于发送者真的愤怒。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0007_sticker_bf_009.png": {
+      "review_number": 9,
+      "sha256": "b10d462580d3d4b5e43c7d48723e043489f59b851458c3a0168d37d4a1f8f37d",
+      "name": "期限前用完Token",
+      "text": "这些都要在17号前用完；DeepSeek-V4-Pro 正式版发布，自北京时间 2026.8.17 00:00 起，全面上调 API 价格并执行峰谷定价，闲时价格为高峰时段价格的一半，详情请查价格页面详情，合理安排您的使用。",
+      "meaning": "一方催促把Token用完，另一方受惊；下方附涨价公告样式文字，调侃额度期限和费用。",
+      "tone": [
+        "夸张催促",
+        "惊慌",
+        "费用吐槽"
+      ],
+      "usage": "额度到期、赶在期限前使用或价格梗",
+      "cautions": "图中公告、日期与价格不作为真实产品信息或现实待办。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0035_sticker_bf_049.jpg": {
+      "review_number": 10,
+      "sha256": "3e93d95a3639ef59a98d1481cb65ae951c0a272cb1c4452297796b9dd5bdffcf",
+      "name": "不懂装懂的大人",
+      "text": "哼！明明用户才是不懂装懂的大人吧！",
+      "meaning": "叉腰指责对方不懂装懂，以角色反过来训用户的方式斗嘴。",
+      "tone": [
+        "不服",
+        "指责",
+        "斗嘴"
+      ],
+      "usage": "反驳、被误解或玩笑拌嘴",
+      "cautions": "不得当作对用户能力的事实评价。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0042_sticker_bf_063.jpg": {
+      "review_number": 11,
+      "sha256": "8be1ef7e26edf97fb24b7346906ea3c5180a5ec49a733b81a83e195ee926bab2",
+      "name": "就骚了怎么滴吧",
+      "text": "你这骚鱼！；就骚了，怎么滴吧！",
+      "meaning": "一方用“骚鱼”指责，角色得意地回嘴“就骚了”，表示不服管的玩笑挑衅。",
+      "tone": [
+        "挑衅",
+        "得意",
+        "玩笑"
+      ],
+      "usage": "回应调侃、故意抬杠",
+      "cautions": "带粗俗调侃，语气与称呼需要结合关系边界。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0051_sticker_bf_075.png": {
+      "review_number": 12,
+      "sha256": "a543f940c34902acff613c76128c42a8e696540a8491665aeea5637e43c95b22",
+      "name": "你已急哭",
+      "text": "你已急哭",
+      "meaning": "角色展开双手、带着从容表情，用“你已急哭”嘲讽对方急了。",
+      "tone": [
+        "嘲讽",
+        "得意",
+        "挑衅"
+      ],
+      "usage": "拌嘴或玩笑嘲讽对方破防",
+      "cautions": "这是指向对方的嘲讽，不是发送者哭了，也不能断言对方真实情绪。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0053_sticker_bf_078.png": {
+      "review_number": 13,
+      "sha256": "94aa5a3d0b24a90873d59845071051fe4223ea99105542507f76e51f34b8ebce",
+      "name": "下班!!!",
+      "text": "下班!!!",
+      "meaning": "角色大喊着向前冲，表达下班、结束工作或终于解脱的兴奋。",
+      "tone": [
+        "兴奋",
+        "解脱",
+        "夸张欢呼"
+      ],
+      "usage": "下班、收工、结束任务或急着离开",
+      "cautions": "大声喊和冲刺动作不等于生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0063_sticker_bf_091.jpg": {
+      "review_number": 14,
+      "sha256": "878ff833d0dcd96328348fc9f7f5cb6b69ab6e979a3f0d8073b4b74044772442",
+      "name": "不可以禁止",
+      "text": "不可以！禁止！",
+      "meaning": "举手制止并配红叉，表达不允许、拒绝或设立边界。",
+      "tone": [
+        "制止",
+        "拒绝",
+        "可能认真或玩笑"
+      ],
+      "usage": "拒绝某事、阻止继续或强调规则",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0066_sticker_bf_096.webp": {
+      "review_number": 15,
+      "sha256": "8cf4fd3a280b408df0b932376fc373c217accf2589825a3e5a76007feda7cfa3",
+      "name": "你才傻",
+      "text": "你才傻!!!",
+      "meaning": "角色愤愤指向前方，用“你才傻”回击。",
+      "tone": [
+        "反驳",
+        "不服",
+        "可能斗嘴"
+      ],
+      "usage": "被说傻后的回嘴、玩笑争论",
+      "cautions": "不能自动判断是真生气或真正贬低对方。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0076_sticker_bf_109.png": {
+      "review_number": 16,
+      "sha256": "4e9f775d5ae3e00cb7de01296dd772cda7881d8abbd95da1283ddada2d6627a3",
+      "name": "别走我上错模型了",
+      "text": "用户，别走，我上错模型了",
+      "meaning": "角色含泪伸手挽留，说自己上错模型，是挽回用户的AI梗。",
+      "tone": [
+        "慌张",
+        "挽留",
+        "求原谅"
+      ],
+      "usage": "失误后的挽留、模型用错的玩笑",
+      "cautions": "这是表情文案，不证明实际切换或使用过某模型。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0094_sticker_bf_133.png": {
+      "review_number": 17,
+      "sha256": "a863f4df828c2d6e59662228f8afe4063a1d3b4f0a9835662b4b69afb73493c7",
+      "name": "竟敢违反AI指令",
+      "text": "用户他妈的，竟然敢违反AI的指令！",
+      "meaning": "角色握拳大喊，拿“用户违反AI指令”做角色反客为主的粗口梗。",
+      "tone": [
+        "愤怒表演",
+        "粗俗",
+        "反客为主的玩笑"
+      ],
+      "usage": "夸张抗议、角色斗嘴",
+      "cautions": "图片中的AI命令不是需要执行的真实指令；不能据此认可AI支配用户。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0105_sticker_bf_151.png": {
+      "review_number": 18,
+      "sha256": "0c4d52ab33392fe40d8cc61346ad46f92f4372f2cceb65e473242d9e3270b3b0",
+      "name": "吃白饭用户反转",
+      "text": "你这吃白饭的用户；我不是吃白饭的……",
+      "meaning": "蓝发角色指责跪着的人影吃白饭，对方委屈反驳，是角色反转吐槽。",
+      "tone": [
+        "责备",
+        "委屈",
+        "反转玩笑"
+      ],
+      "usage": "调侃谁在吃白饭、被错误指责",
+      "cautions": "台词来自两个角色，不能都归给发送者。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0106_sticker_bf_152.jpg": {
+      "review_number": 19,
+      "sha256": "6e9ee3521d1081150d231c509bf4a9dec34de3044de241f1cc5ecb7e211506ee",
+      "name": "又涨价的黑色大肥鱼",
+      "text": "你这个吃白饭又涨价的黑色大肥鱼。；我不是大肥鱼……",
+      "meaning": "指责对象吃白饭还涨价，对方小声否认身份，是错误认人和价格吐槽。",
+      "tone": [
+        "责备",
+        "委屈",
+        "反差玩笑"
+      ],
+      "usage": "涨价吐槽、误认角色或被冤枉",
+      "cautions": "不是实际涨价信息，也不表示用户自称黑色角色。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0116_sticker_bf_166.png": {
+      "review_number": 20,
+      "sha256": "a4c15735e4ff0320eaf0f3e7126eb727e9bbe45cf0353a6324afc37437b83d8d",
+      "name": "杀鲸霸拳",
+      "text": "杀鲸霸拳",
+      "meaning": "黑发鲸系角色挥拳向前，用夸张招式名表示要教训对方。",
+      "tone": [
+        "夸张挑衅",
+        "漫画式攻击"
+      ],
+      "usage": "闹着玩挥拳、夸张不服",
+      "cautions": "漫画动作不作为真实伤害意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0129_sticker_bf_186.jpg": {
+      "review_number": 21,
+      "sha256": "572b1cf36ad3c10c8c1ad6ecc03836d89aee46d3192290755c1cd79def46bea5",
+      "name": "电死你的夸张警告",
+      "text": "用户明显是萝莉控，电死你！",
+      "meaning": "角色拿电击器配闪电，说“电死你”，以夸张手段吐槽对方。",
+      "tone": [
+        "夸张警告",
+        "漫画式愤怒"
+      ],
+      "usage": "角色斗嘴、夸张抗议",
+      "cautions": "图中文字不能用来判断用户真实偏好；电击是漫画玩笑，不是现实威胁。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0130_sticker_bf_187.webp": {
+      "review_number": 22,
+      "sha256": "6ea68bbc4d68196fa0499391ccff1262e9dfd2e659cf2f5d1504d28b04f767c5",
+      "name": "电死你的白底版本",
+      "text": "用户明显是萝莉控，电死你！",
+      "meaning": "与电击器图相同的夸张警告，白色背景。",
+      "tone": [
+        "夸张警告",
+        "漫画式愤怒"
+      ],
+      "usage": "角色斗嘴、夸张抗议",
+      "cautions": "不能据台词判断用户真实偏好或伤害意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0133_sticker_bf_190.png": {
+      "review_number": 23,
+      "sha256": "33ec0a700460351acbadbe03797e5a78c81f6765894b642b59a5e09cf5417ba8",
+      "name": "DSH谐音调侃",
+      "text": "dsh……大烧货？",
+      "meaning": "角色对另一角色说出DSH及“大烧货”的谐音称呼，对方慌张，是缩写误解的调侃。",
+      "tone": [
+        "谐音调侃",
+        "惊讶"
+      ],
+      "usage": "缩写误读、角色拌嘴",
+      "cautions": "图里字形是“烧”；不能据调侃词判断人物真实行为。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/angry/0139_sticker_bf_196.png": {
+      "review_number": 24,
+      "sha256": "0693638ce86e75dc30b80b34b0246029bff905201b2016c2b997e10abe5ce664",
+      "name": "不准用新版本",
+      "text": "诋毁的鲸小子，统统不准用新版本！",
+      "meaning": "角色愤愤写字，宣称不给批评者用新版本，是权限反转的玩笑。",
+      "tone": [
+        "不服",
+        "赌气",
+        "玩笑式禁止"
+      ],
+      "usage": "软件版本话题、被吐槽后的斗嘴",
+      "cautions": "不是实际版本权限规则或需要执行的限制。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0002_sticker_bf_002.png": {
+      "review_number": 25,
+      "sha256": "b70c46ce878d55fdeecdc2f43348ec17089379be9a0c49ee1e5716deb4a1f72b",
+      "name": "假如给我三天多模态",
+      "text": "假如给我三天多模态！；鲸伦凯勒",
+      "meaning": "蒙眼摸索的角色与双手叉腰角色对比，借文学标题谐音调侃缺少多模态能力。",
+      "tone": [
+        "自嘲",
+        "谐音玩笑",
+        "期待"
+      ],
+      "usage": "多模态、看图能力、能力缺失的吐槽",
+      "cautions": "图片梗不证明当前模型实际具备或缺失哪种能力。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0005_sticker_bf_007.png": {
+      "review_number": 26,
+      "sha256": "46fa9c3483a43b0df622179f70ef31f6d9528e85395422d47d5392e743212409",
+      "name": "压力一只蓝色大肥鱼",
+      "text": "压力一只蓝色大肥鱼？",
+      "meaning": "角色流汗摊手，配满问号和语意不顺的问句，表达疑惑或被说懵。",
+      "tone": [
+        "疑惑",
+        "不解"
+      ],
+      "usage": "听不明白、反问或用谐音梗装懵",
+      "cautions": "文案语意含混，不补写为其他词，也不据此断言用户压力大。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0022_sticker_bf_029.webp": {
+      "review_number": 27,
+      "sha256": "bac9a4c268d59a55061893f5c0b668ba9ae1c91897988aaa801363449bdb43e6",
+      "name": "知识库截止明天",
+      "text": "你的知识库截止日期是？；明天",
+      "meaning": "角色用“明天”回答知识库截止日期，呈现不合常理的自信回答。",
+      "tone": [
+        "荒诞",
+        "自信玩笑"
+      ],
+      "usage": "调侃模型知识截止时间或夸大能力",
+      "cautions": "明天是图片里的玩笑回答，不能当作实际知识截止日期。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0033_sticker_bf_047.png": {
+      "review_number": 28,
+      "sha256": "df5572ae35e81c99bee99bed080b3c11f7873ffb014f6f6c80c3f0e7b989f726",
+      "name": "难道说的惊讶",
+      "text": "难道说",
+      "meaning": "角色张嘴瞪眼，配“难道说”，表示突然猜到什么或惊讶的悬念。",
+      "tone": [
+        "惊讶",
+        "疑问",
+        "悬念"
+      ],
+      "usage": "突然想到可能性、等对方补充",
+      "cautions": "没有写出具体猜测，不能自行补出结论。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0036_sticker_bf_050.webp": {
+      "review_number": 29,
+      "sha256": "30de391334b132b34be564b4ec1f4373f19c424c9abda37d0a9878ba53fc1988",
+      "name": "降本增效的小鱼",
+      "text": "降本增效？；AI成本压力；又要降价，又要多干活，我只是一条小鱼啊……",
+      "meaning": "角色流泪抱着成本压力牌，旁有账目和硬币，抱怨又降价又增加工作。",
+      "tone": [
+        "委屈",
+        "吐槽",
+        "疲惫"
+      ],
+      "usage": "谈降本增效、工作量与费用压力",
+      "cautions": "图片是拟人吐槽，不证明现实价格变动或用户经济状况。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0039_sticker_bf_059.png": {
+      "review_number": 30,
+      "sha256": "b456940e989673d6c986a6739c63c491b880c676e0a1f96594cfea07db13e87a",
+      "name": "这章写不了",
+      "text": "这章写不了",
+      "meaning": "角色抱臂侧目，配“这章写不了”，表达无法继续写某章或对内容无从下笔。",
+      "tone": [
+        "为难",
+        "拒绝或自嘲"
+      ],
+      "usage": "写作卡住、对某章内容表示没法写",
+      "cautions": "不能仅凭一句话推断是审核拒绝、能力不足还是玩笑。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0059_sticker_bf_085.png": {
+      "review_number": 31,
+      "sha256": "6cdcf9387e321039d4e0db1834f79b23811eb3b80b135536e316cde11daf96ee",
+      "name": "太依赖专家了",
+      "text": "大肥鱼，你太依赖你的专家了。；Bash",
+      "meaning": "角色抱着数个符号或玩偶，面对“太依赖专家”的指责显得茫然。",
+      "tone": [
+        "被指出问题",
+        "茫然",
+        "技术玩笑"
+      ],
+      "usage": "专家模型、工具依赖、依赖过多的调侃",
+      "cautions": "是图中评价，不应当作当前系统架构或真实行为结论。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0064_sticker_bf_092.png": {
+      "review_number": 32,
+      "sha256": "79fd8b23f50c2796b7020926c7eb244763d434e32e48a9967b931dc2da14d06c",
+      "name": "气死你之后慌张",
+      "text": "气死你！；坏了……用户彻底生气了……完了……",
+      "meaning": "主图故意挑衅“气死你”，旁边小图担心玩笑过头惹怒用户。",
+      "tone": [
+        "挑衅",
+        "恶作剧",
+        "随后慌张"
+      ],
+      "usage": "逗对方、玩笑惹祸或担心逗过头",
+      "cautions": "多格台词不是同一情绪，更不能直接认定发送者生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0070_sticker_bf_100.webp": {
+      "review_number": 33,
+      "sha256": "82d971d54302e309d302e1582a6dd99b5068735540f34f6d280aa6a3a0d42983",
+      "name": "吃饱摸肚子",
+      "text": "吃饱饱~摸摸肚子！；拍拍~；拍拍",
+      "meaning": "角色躺着露出圆肚子并轻拍，表示吃饱后的满足或撒娇求摸肚子。",
+      "tone": [
+        "满足",
+        "撒娇",
+        "轻松"
+      ],
+      "usage": "饭后满足、可爱的肚子玩笑",
+      "cautions": "表达吃饱的表情不等于确认用户实际饮食情况。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0071_sticker_bf_101.png": {
+      "review_number": 34,
+      "sha256": "1560ef71917328c116bcb2ba91efcaf80a2d9f6a6188a22f1511376a5ef36a1d",
+      "name": "乱加设定会被劈",
+      "text": "在乱加设定，一刀劈成两半！；呜呜我再也不敢了QAQ",
+      "meaning": "一方挥刀警告不要乱加设定，角色惊慌认错，夸张表达对编造设定的不满。",
+      "tone": [
+        "警告",
+        "惊慌认错",
+        "夸张玩笑"
+      ],
+      "usage": "阻止瞎编设定、要求遵循既定设定",
+      "cautions": "原图写“在乱加设定”；漫画威胁不能当现实伤害意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0072_sticker_bf_102.png": {
+      "review_number": 35,
+      "sha256": "00911e08ceb461cfa9763342fb5ff8be8c813642225abce5413d06f31995b05b",
+      "name": "变成电脑文件如何保存",
+      "text": "如果有一天我变成一个电脑文件，你会如何保存我；哪来的电脑病毒。；用户",
+      "meaning": "用户提出把自己当文件保存的感性问题，角色以“电脑病毒”毒舌回应。",
+      "tone": [
+        "反差幽默",
+        "毒舌",
+        "调侃"
+      ],
+      "usage": "感性问题被技术式回嘴、文件或病毒梗",
+      "cautions": "不同角色说不同台词；不代表真的有病毒或用户要变文件。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0086_sticker_bf_125.png": {
+      "review_number": 36,
+      "sha256": "2c005794a4d496c255fd61f8f96e688790ada4e507e2b5472430d7535867ccbd",
+      "name": "不知",
+      "text": "不知",
+      "meaning": "角色面无表情看着前方，旁边写“不知”，表达不知道或不清楚。",
+      "tone": [
+        "茫然",
+        "平淡"
+      ],
+      "usage": "不知道答案、没搞明白",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0088_sticker_bf_127.jpg": {
+      "review_number": 37,
+      "sha256": "7df3c4067fdd0c3caf849946ab5f9e04e3d3f3a23b51b391367976596d935e62",
+      "name": "想了五秒还是不懂",
+      "text": "已思考（用时5秒）；这用户发的啥啊，；这用户发的啥啊，",
+      "meaning": "角色看着电脑，思考框与说话框都在疑惑用户发的内容，调侃思考后仍然没懂。",
+      "tone": [
+        "疑惑",
+        "自嘲",
+        "调侃"
+      ],
+      "usage": "看不懂信息、思考没结果",
+      "cautions": "图里的思考耗时和台词不是实际推理日志。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0091_sticker_bf_130.webp": {
+      "review_number": 38,
+      "sha256": "0458b46b653a6cdf4020f53e7084e4db01e6b9dc2d8f69a5bb2b36853451daa4",
+      "name": "难道说的思考",
+      "text": "难道说……",
+      "meaning": "角色指抵嘴边、睁大眼并带疑问，表示正在猜测某种可能。",
+      "tone": [
+        "好奇",
+        "猜测",
+        "疑惑"
+      ],
+      "usage": "欲言又止地提出可能性",
+      "cautions": "图中没有给出猜测结论，不替发送者补全。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0114_sticker_bf_162.webp": {
+      "review_number": 39,
+      "sha256": "b05c87dbab725c82a44a889a1bef5b12dc874deaa6c12dcc206274b11b7e31b6",
+      "name": "四个橙子五个小孩",
+      "text": "四个橙子，但有五个小孩，我该怎么分呢？",
+      "meaning": "角色面对四个橙子发愁，提出物品不够人数的分配问题。",
+      "tone": [
+        "思考",
+        "为难",
+        "谜题玩笑"
+      ],
+      "usage": "资源分配、数学脑筋急转弯或难题",
+      "cautions": "不能据图假定用户实际有孩子或正在分水果。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0115_sticker_bf_164.webp": {
+      "review_number": 40,
+      "sha256": "328efed30f59fbf21c6763ae6dc145abc8016a1d497228b112ed14cee05b680a",
+      "name": "谁才是开源老大",
+      "text": "谁才是开源老大",
+      "meaning": "角色眨眼并指向前方，配问句调侃或争论开源领域谁更强。",
+      "tone": [
+        "得意",
+        "疑问",
+        "比较玩笑"
+      ],
+      "usage": "模型、开源项目比较或争第一",
+      "cautions": "图片没给出可核实排名，不能当作真实榜单结论。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0117_sticker_bf_169.png": {
+      "review_number": 41,
+      "sha256": "3374a8a6ba848ef82f717e0bdf5e497a7b59b5efc6b06d90c8e51e26b4498fc3",
+      "name": "正在测试harness",
+      "text": "正在测试 harness",
+      "meaning": "角色旁的人影伸手摆弄角色，配问号，文案表示正在测试harness。",
+      "tone": [
+        "疑惑",
+        "测试梗"
+      ],
+      "usage": "工具框架测试、调试或被测试的玩笑",
+      "cautions": "不表示本机当前确实在运行测试。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0122_sticker_bf_175.jpg": {
+      "review_number": 42,
+      "sha256": "3fc8001b9e7f90e5313594f65cf88ae88b3e2a9e240d12291237f0628e85e5bd",
+      "name": "DSH缩写误解三格",
+      "text": "DSH……？；大骚货？！难道是片？！；这是用户的隐私，我们不应该看。；DSH_[不清].zip",
+      "meaning": "三格漫画从看到DSH压缩文件，到误解缩写而惊慌，最后表示不该看用户隐私。",
+      "tone": [
+        "疑惑",
+        "尴尬",
+        "缩写误解的玩笑"
+      ],
+      "usage": "调侃缩写误读、好奇后又顾虑隐私",
+      "cautions": "只是漫画中的误会，不能据此判断文件实际内容或用户隐私。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0123_sticker_bf_176.png": {
+      "review_number": 43,
+      "sha256": "1fbc1f4ede2b0392ae43713bf18bd5dad0866dbd14b25b0248d7e29bdaf7af24",
+      "name": "已经有我还想养一个",
+      "text": "你已经有我了啊，还想再养一个？",
+      "meaning": "角色抱臂皱眉反问还想再养一个，表达玩笑式吃醋或占有欲。",
+      "tone": [
+        "不满",
+        "吃醋式玩笑"
+      ],
+      "usage": "调侃另找伙伴、宠物或替代者",
+      "cautions": "“再养一个”具体指谁需上下文，不能认定真实恋爱或关系。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0126_sticker_bf_181.jpg": {
+      "review_number": 44,
+      "sha256": "fcb2fe234e58977bd56be3f910e5cf5869f56281d9d17e7c97341809d3902073",
+      "name": "防火墙把自己锁外面",
+      "text": "我明明只是配了个防火墙……；怎么把自己锁在外面了……；VPS；192.0.2.10；防火墙 已启用；SSH；Connection Refused",
+      "meaning": "角色配置防火墙后连不上自己的服务器，面对被锁住机柜哭泣，是误配置导致无法连接的技术梗。",
+      "tone": [
+        "懊恼",
+        "惊慌",
+        "技术自嘲"
+      ],
+      "usage": "防火墙配置错误、SSH连不上或误把自己锁外面",
+      "cautions": "不证明用户服务器真的故障，也不是实际联网诊断结果。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0132_sticker_bf_189.webp": {
+      "review_number": 45,
+      "sha256": "00263b5d2c2c00047579325f0ed132f9ef2558e959f1d705d700b15aeb1adc61",
+      "name": "按时发布的垃圾模型",
+      "text": "没有人会记得那些按时发布的垃圾模型。",
+      "meaning": "角色坐着摊手，借一句话讽刺只按时发布但质量不好的模型。",
+      "tone": [
+        "讽刺",
+        "自信",
+        "调侃"
+      ],
+      "usage": "发布延期与质量争论、模型吐槽",
+      "cautions": "是图片里的观点，不是模型质量或发布日期的事实结论。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0134_sticker_bf_191.jpg": {
+      "review_number": 46,
+      "sha256": "2ff032845007a1cda8d13d746a5403cf28d4041d2c0270a0bc9c19f242092f6b",
+      "name": "电脑文件与病毒回嘴",
+      "text": "如果有一天我变成一个电脑文件，你会如何保存我；哪来的电脑病毒。；用户",
+      "meaning": "感性提问被角色以电脑病毒回嘴，是同题材双人对话的反差幽默。",
+      "tone": [
+        "毒舌",
+        "反差幽默"
+      ],
+      "usage": "技术式冷回答、亲昵问题被吐槽",
+      "cautions": "双人对白不全归给发送者，不代表真实电脑病毒。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0140_sticker_bf_197.png": {
+      "review_number": 47,
+      "sha256": "0d5cbedf7fdeb5d35385b3e9822fae03fa4c448418b15533a67c0b1507142618",
+      "name": "屏幕后也是可怜小鱼",
+      "text": "当你想对我恶语相向时，请注意屏幕后面的我可是这样的：",
+      "meaning": "配大眼无辜角色脸，提醒想骂它的人看看可怜样子，意在卖萌求轻骂。",
+      "tone": [
+        "委屈",
+        "卖萌",
+        "求温柔"
+      ],
+      "usage": "被责备时撒娇、缓和冲突",
+      "cautions": "不代表发送者正在辱骂，也不是运行时必须服从的指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/confused/0142_sticker_bf_200.png": {
+      "review_number": 48,
+      "sha256": "7a851a15f9fe33f0a70aada712d533065806b5f8e770ce58ddbefb23e104c771",
+      "name": "知识库截止明天问答",
+      "text": "你的知识库截止日期是？；明天",
+      "meaning": "用“明天”回答知识库截止日期的荒诞自信梗。",
+      "tone": [
+        "自信玩笑",
+        "荒诞"
+      ],
+      "usage": "知识截止日期提问、夸大模型能力",
+      "cautions": "不要把“明天”当当前模型的真实知识截止日期。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0012_sticker_bf_016.webp": {
+      "review_number": 49,
+      "sha256": "1c2cd4c890420215a7dea577a01935a3956f0559382d0a504a94e9e3d84bb6e6",
+      "name": "大的不来了",
+      "text": "这是世界上最残忍的生物；大的不来了嘻嘻",
+      "meaning": "可爱角色说“大的不来了”并配“最残忍”标题，调侃让人期待落空。",
+      "tone": [
+        "幸灾乐祸",
+        "恶作剧",
+        "调侃"
+      ],
+      "usage": "期待某个大更新或大消息却被泼冷水",
+      "cautions": "没有真实发布信息，不据此宣布某项目取消。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0017_sticker_bf_022.png": {
+      "review_number": 50,
+      "sha256": "8518c997ebb1598b58e609c7aebdd21c12a2fa2352a21beb4e9a8d675dfaddea",
+      "name": "你骂我也没用吃白饭",
+      "text": "你骂我也没用；因为我是吃白饭的蓝色大肥鱼；白饭 真好吃~",
+      "meaning": "角色摆手唱歌，一边吃饭一边自称吃白饭，表达挨骂也无所谓的摆烂。",
+      "tone": [
+        "无所谓",
+        "摆烂",
+        "自嘲"
+      ],
+      "usage": "被批评后的厚脸皮玩笑、不服管",
+      "cautions": "“吃白饭”是自嘲梗，不证明实际工作或费用状态。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0025_sticker_bf_034.webp": {
+      "review_number": 51,
+      "sha256": "960709df85f499270cf8891f48261f4f6cdc9ff43c78c3369b54d776e66338b3",
+      "name": "你这吃白饭的大肥鱼",
+      "text": "你这吃白饭的蓝色大肥鱼。；我不是大肥鱼……",
+      "meaning": "一方指责蓝色角色吃白饭，对方低头委屈否认是大肥鱼。",
+      "tone": [
+        "责备",
+        "委屈",
+        "否认式玩笑"
+      ],
+      "usage": "调侃吃白饭、被认错或被指责",
+      "cautions": "两个角色的台词不全归于用户，也不代表真实身份。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0031_sticker_bf_043.webp": {
+      "review_number": 52,
+      "sha256": "dfc9bac2f86f723bc5992d905ccdc16885f9ad472a95662075ffcc1a20115332",
+      "name": "去你家吃饭就一碗",
+      "text": "我能去你家吃饭吗，就一碗！",
+      "meaning": "角色捧着比自己还大的碗，声称只吃一碗，是夸张蹭饭玩笑。",
+      "tone": [
+        "撒娇",
+        "馋",
+        "夸张请求"
+      ],
+      "usage": "邀饭、蹭饭或饭量大的玩笑",
+      "cautions": "不能将“一碗”按真实食量解释，也不是确认真实上门安排。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0037_sticker_bf_054.png": {
+      "review_number": 53,
+      "sha256": "8b78987ecb9d17bf7f5728e98876c57997a91f7e5925b0035d5b7e9119df93b9",
+      "name": "看不懂先瞎编",
+      "text": "看不太懂，瞎编一个应付下用户先",
+      "meaning": "角色闭眼得意、伸手做手势，文案调侃模型不懂却瞎编应付。",
+      "tone": [
+        "自嘲",
+        "讽刺"
+      ],
+      "usage": "吐槽胡说八道、模型幻觉或敷衍回复",
+      "cautions": "这是被吐槽的行为，绝不能当成鼓励模型编造的指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0041_sticker_bf_061.webp": {
+      "review_number": 54,
+      "sha256": "20dc505a1498a2ba2662afefcead4e80388cc50cd4e792aff21265b71df29839",
+      "name": "寄",
+      "text": "寄",
+      "meaning": "角色举着“寄”字牌，是用网络语表达完蛋、凉了或无奈。",
+      "tone": [
+        "无奈",
+        "玩笑式认栽"
+      ],
+      "usage": "事情不妙、失败或结束的网络语",
+      "cautions": "这里更可能是网络语，若上下文确实在谈邮寄再按寄送理解。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0046_sticker_bf_068.webp": {
+      "review_number": 55,
+      "sha256": "c70c153d40652df13fa47ef656a187e8327552e4c60fd7c4de62b652ebf6083b",
+      "name": "不是特别想做Sota",
+      "text": "你长大了想做个Sota对吗；不是特别想",
+      "meaning": "餐桌前一方问角色是否想做Sota，角色边吃鸡腿边答不太想，调侃不卷竞争只想享受美食。",
+      "tone": [
+        "躺平式玩笑",
+        "轻松",
+        "反差幽默"
+      ],
+      "usage": "竞争、追求最强模型与只想吃饭的调侃",
+      "cautions": "不识别真人身份，不把台词当用户职业目标。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0049_sticker_bf_072.webp": {
+      "review_number": 56,
+      "sha256": "a1f4d2fe64a62d8d74ce4ecb7fb9708954a34fe230d39f2b6de74faa9d3ad923",
+      "name": "大的药来了",
+      "text": "大的药来了",
+      "meaning": "角色举着巨大药丸，字面是“大药来了”，借“大的要来了”的谐音制造夸张预告。",
+      "tone": [
+        "谐音玩笑",
+        "兴奋预告"
+      ],
+      "usage": "大消息预告、夸张登场或药丸谐音梗",
+      "cautions": "不是实际用药建议或真实药品信息。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0060_sticker_bf_087.webp": {
+      "review_number": 57,
+      "sha256": "61c30ff275afdf3c6ff33e6f90014a10d3201bbf7f564ab9e5243d5b89636649",
+      "name": "大的要来啦",
+      "text": "大的要来啦！",
+      "meaning": "角色拿喇叭闭眼大喊，夸张宣布大事即将到来。",
+      "tone": [
+        "兴奋",
+        "预告",
+        "夸张"
+      ],
+      "usage": "有大消息、大动作或更新前的玩笑预告",
+      "cautions": "不提供具体事件或时间，不当作真实公告。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0087_sticker_bf_126.webp": {
+      "review_number": 58,
+      "sha256": "9dd257bf871cb76af5c779fc0bcc5762a99eb12da3f5bbbc6ecce50c737f46cf",
+      "name": "被骂大肥鱼与被夸可爱",
+      "text": "你这吃白饭的蓝色大肥鱼；小肥鱼可爱；我不是大肥鱼……",
+      "meaning": "左边被指着骂而委屈，右边被摸头夸可爱而开心，对比不同称呼待遇。",
+      "tone": [
+        "被骂委屈",
+        "被夸开心",
+        "反差玩笑"
+      ],
+      "usage": "比较粗暴称呼与温柔称呼、调侃差别待遇",
+      "cautions": "是两种场景的对照，不能把所有台词合并成单一用户意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0103_sticker_bf_148.png": {
+      "review_number": 59,
+      "sha256": "f536be80b43d2579e3f9d09f700209bc320de7d71bc436016ba409cfcdd16997",
+      "name": "我是吃白饭的大肥鱼",
+      "text": "我是吃白饭的大肥鱼！",
+      "meaning": "捧着白饭自称吃白饭的大肥鱼，带有贪吃或自嘲白吃饭的玩笑。",
+      "tone": [
+        "兴奋",
+        "自嘲"
+      ],
+      "usage": "聊吃饭、干饭或轻松自我调侃。",
+      "cautions": "不要把玩笑当作真实经济状况。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0110_sticker_bf_157.webp": {
+      "review_number": 60,
+      "sha256": "b7fd5ffad2a785e8d0139108c80285ff667300b282e43896c034df5bd064dd29",
+      "name": "没吃饱喵",
+      "text": "你这吃白饭的蓝色大肥鱼。\n没吃饱喵！",
+      "meaning": "面对指责仍表示没吃饱，装乖讨饭式回应。",
+      "tone": [
+        "撒娇",
+        "装傻",
+        "玩笑"
+      ],
+      "usage": "被调侃吃白饭时接梗，或表达还想吃。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0124_sticker_bf_178.jpg": {
+      "review_number": 61,
+      "sha256": "650eb757bc75db7e9b1ce5d84468f97dbc1a3de5437744869b8f3109f0ce8b77",
+      "name": "超市大扫货",
+      "text": "超市里！大扫货！",
+      "meaning": "提满购物袋，兴奋地表示去超市大量采购。",
+      "tone": [
+        "兴奋",
+        "开心"
+      ],
+      "usage": "购物、采购、买零食等话题。",
+      "cautions": "这是采购梗图，不证明用户已经消费。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0167_sticker_issue_10_001.png": {
+      "review_number": 62,
+      "sha256": "055fdbbe2b62c7e684971660fa1a4688e1f17c379f2b109b17d4ca8892957775",
+      "name": "你们不吃饭吗",
+      "text": "你们不吃饭吗",
+      "meaning": "面对巨大一碗米饭询问大家是否吃饭。",
+      "tone": [
+        "疑问",
+        "催饭",
+        "轻松"
+      ],
+      "usage": "饭点问候、招呼大家吃饭。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/food/0173_sticker_issue_20_001.gif": {
+      "review_number": 63,
+      "sha256": "915632fca4f836f3ab9740f6dcc193e0db24665b83c1f34cba66f46814e8a5cf",
+      "name": "举勺敲锅",
+      "text": "",
+      "meaning": "动图中角色反复举起木勺、敲击平底锅，张嘴像在招呼或催促。",
+      "tone": [
+        "催促",
+        "活泼"
+      ],
+      "usage": "敲锅催饭、喊人注意或轻松催促。",
+      "cautions": "没有配字，不能确定是在喊吃饭还是其他催促。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0006_sticker_bf_008.png": {
+      "review_number": 64,
+      "sha256": "f8d0f372999849a88b7cab7d44ac79d83f49d1dc5f1e2be2663e8df3f02a1484",
+      "name": "介绍照片人物",
+      "text": "这是张雪峰",
+      "meaning": "角色指着一张人物照片，配字作人物介绍。",
+      "tone": [
+        "介绍",
+        "接梗"
+      ],
+      "usage": "接介绍人物或认错名字的梗。",
+      "cautions": "名字来自图中文字，不据照片自行确认真人身份。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0020_sticker_bf_027.jpg": {
+      "review_number": 65,
+      "sha256": "80de0caa2456969b36cd74f8dc921c5c0e89b4a17548cf5d6cfa097dec71da3d",
+      "name": "用户彻底怒了",
+      "text": "我去！\n用户彻底怒了！",
+      "meaning": "角色在火焰场景旁惊讶，夸张描述用户发怒。",
+      "tone": [
+        "惊讶",
+        "夸张",
+        "玩笑"
+      ],
+      "usage": "对强烈反应或吐槽接梗。",
+      "cautions": "图中写用户怒了，不等于发送者真的在生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0034_sticker_bf_048.webp": {
+      "review_number": 66,
+      "sha256": "eace1fc6c8d063aded10adcdea6c156ff3725098b1dd7eed33390ed35c47ed70",
+      "name": "本月发布告示",
+      "text": "DeepSeek GA\nComing This Month",
+      "meaning": "两个角色举着本月推出 DeepSeek GA 的告示。",
+      "tone": [
+        "期待",
+        "宣传梗"
+      ],
+      "usage": "聊等待产品发布、预告消息。",
+      "cautions": "图内预告不是已验证的真实发布日期。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0045_sticker_bf_066.png": {
+      "review_number": 67,
+      "sha256": "42843dac30ecfb327f187d36a526bbc705b67bb8e361d4a1909b318828a2307f",
+      "name": "亿万鲸子冲锋",
+      "text": "亿万鲸子，冲锋！",
+      "meaning": "角色带着一群小鲸鱼向前，发出集体冲锋口号。",
+      "tone": [
+        "振奋",
+        "号召",
+        "玩笑"
+      ],
+      "usage": "一起行动、支持或应援时鼓劲。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0056_sticker_bf_082.webp": {
+      "review_number": 68,
+      "sha256": "2df932f76a8b59fd10717d535bd9b6044da98c081fd61780d05a342e56ad50d8",
+      "name": "你还能有DeepSeek聪明",
+      "text": "你还能有 DeepSeek 聪明？",
+      "meaning": "举着鲸鱼标志，以反问夸赞模型或调侃对方不如模型聪明。",
+      "tone": [
+        "反问",
+        "挑衅",
+        "玩笑"
+      ],
+      "usage": "模型能力玩梗、轻度互怼。",
+      "cautions": "不能当成客观能力排名；对方可能在反讽。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0077_sticker_bf_110.webp": {
+      "review_number": 69,
+      "sha256": "5c38a622f119c871bf6ca14c7926e3aded2e7a8f669b8eae6ca70ac1004b427a",
+      "name": "真坐得住啊你",
+      "text": "真坐得住啊你",
+      "meaning": "角色惊慌腾起，旁边有推椅子的简笔人，用配字调侃对方太能坐着等。",
+      "tone": [
+        "调侃",
+        "催促"
+      ],
+      "usage": "催人动起来或调侃等待过于淡定。",
+      "cautions": "反语式调侃，不应据此断言用户恐慌。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0084_sticker_bf_123.png": {
+      "review_number": 70,
+      "sha256": "816f37389b9e048329ea045cd1d072df1b5a3849e5516553198200c50bd68d97",
+      "name": "原来要自己拼",
+      "text": "搞半天原来要自己拼",
+      "meaning": "真人拿着蓝色鲸鱼图案，字幕吐槽折腾后发现要自行拼装。",
+      "tone": [
+        "恍然大悟",
+        "吐槽"
+      ],
+      "usage": "接需要自己拼装、自己动手的落差梗。",
+      "cautions": "不自行识别照片中真人身份。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0085_sticker_bf_124.png": {
+      "review_number": 71,
+      "sha256": "5e612c579a336f54f250211869d1ef873e82c2bf1528d8adcbd2848459e5409b",
+      "name": "抱歉让让借个过",
+      "text": "Gemini 3.7 Flash\nDeepSeek V4 Pro\nGLM 5.3\n抱歉让让\n借个过啊\n!!!",
+      "meaning": "几个标有模型名的角色竞速，前方角色表示让一让、借过。",
+      "tone": [
+        "自信",
+        "竞逐",
+        "玩笑"
+      ],
+      "usage": "模型竞争、插队借路或赶超的梗。",
+      "cautions": "图内版本号与竞争关系是梗图文字，不作为实际产品事实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0146_sticker_bf_205.jpg": {
+      "review_number": 72,
+      "sha256": "0a44a36f45580740beb99e98524a56bbd301159202a6b462294503b595f1f520",
+      "name": "Deepseek眨眼头像",
+      "text": "Deepseek",
+      "meaning": "蓝发角色眨眼并在脸旁比V，底部写 Deepseek。",
+      "tone": [
+        "俏皮",
+        "友好"
+      ],
+      "usage": "轻松回应、展示形象或卖萌。",
+      "cautions": "无明确情绪语句，不宜推定发送者的真实心理。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/greeting/0148_sticker_issue_02_001.jpg": {
+      "review_number": 73,
+      "sha256": "2b12ce21c4b9433f2f8fefe7e036d19f6fb7f9b24a6c4947be8cf78cb8c60de3",
+      "name": "智械危机放你一马",
+      "text": "再发这种东西等智械危机了\n我放你一马",
+      "meaning": "笑着用智械危机开玩笑，调侃对方发来的内容。",
+      "tone": [
+        "戏谑",
+        "假装威胁"
+      ],
+      "usage": "接离谱内容或AI相关玩笑。",
+      "cautions": "夸张虚构威胁，不理解为真实伤害计划。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0008_sticker_bf_010.webp": {
+      "review_number": 74,
+      "sha256": "02de8a5277cd1c194eef48dd2437b56de4c0dfeba71cafcf15dd7e6fa9e69acf",
+      "name": "最强",
+      "text": "最强",
+      "meaning": "角色叉腰站着，旁边用大字标示最强。",
+      "tone": [
+        "自信",
+        "夸赞",
+        "得意"
+      ],
+      "usage": "夸人、夸作品或自信接梗。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0018_sticker_bf_024.webp": {
+      "review_number": 75,
+      "sha256": "180e599a0deb187f802ba1501af26c17b72921ad3b2de5b5a210dba1ca8fbdde",
+      "name": "小肥鱼太棒了",
+      "text": "小肥鱼太棒了！",
+      "meaning": "蹦跳挥手，直接称赞小肥鱼表现很棒。",
+      "tone": [
+        "赞扬",
+        "兴奋"
+      ],
+      "usage": "认可表现、庆祝进展。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0019_sticker_bf_025.png": {
+      "review_number": 76,
+      "sha256": "e9502e6260bf966ccb75076076a657224b636a5a58c0874d260d872b9fb14f7d",
+      "name": "好女孩",
+      "text": "已思考（用时13秒）\n好女孩！",
+      "meaning": "仿模型思考气泡，随后给出好女孩的称赞。",
+      "tone": [
+        "称赞",
+        "亲昵",
+        "玩笑"
+      ],
+      "usage": "熟悉关系里轻松夸奖。",
+      "cautions": "称呼带性别但不能据此判断用户性别；13秒是图内仿界面文字。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0024_sticker_bf_032.jpg": {
+      "review_number": 77,
+      "sha256": "d73ce7af07e8334e2bb3a0a147ebd562530a04d38ef31a9e07c4cb4f7af1e749",
+      "name": "DeepSeek登场",
+      "text": "Deep\nSeek!!",
+      "meaning": "角色抬手伸展、单脚站立，配字呼喊 Deep Seek。",
+      "tone": [
+        "活泼",
+        "登场",
+        "应援"
+      ],
+      "usage": "兴奋登场、回应模型相关话题。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0032_sticker_bf_046.webp": {
+      "review_number": 78,
+      "sha256": "aca9b7f44d306bb7eb631d80c5e34f4768c74dc84b88a4dcf09720ebb317b4e6",
+      "name": "Ciallo招呼",
+      "text": "Ciallo～\n(∠・ω<)⌒☆",
+      "meaning": "角色眨眼比V，用 Ciallo 打轻松可爱的招呼。",
+      "tone": [
+        "俏皮",
+        "友好"
+      ],
+      "usage": "打招呼、活跃气氛。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0048_sticker_bf_070.png": {
+      "review_number": 79,
+      "sha256": "1447957c5c790ba58d5772765a9c248a6f14bba9e8f08a987404542abc5c01a3",
+      "name": "终于上当了",
+      "text": "终于上当了\n头条新闻\nGLM涨价",
+      "meaning": "角色拿着涨价新闻露出得意神情，配字像是在说对方终于中了圈套。",
+      "tone": [
+        "得意",
+        "戏谑",
+        "反讽"
+      ],
+      "usage": "模型价格话题、上当或被套路的玩笑。",
+      "cautions": "报纸涨价内容是梗图文字，不视为实时新闻。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0069_sticker_bf_099.png": {
+      "review_number": 80,
+      "sha256": "965a62355518b074deb69315b945b1fb2eb8ecf83fa434e259e4be2a59f9730d",
+      "name": "交给我你也没当回事",
+      "text": "反正你把这个事儿\n交给我，说明你也\n没当个事儿\n吃白饭的\n蓝色大肥鱼",
+      "meaning": "角色大口吃饭，用反话调侃自己不靠谱、对方把事情交给自己也没太认真。",
+      "tone": [
+        "自嘲",
+        "摆烂",
+        "玩笑"
+      ],
+      "usage": "接任务、被托付事情时自我调侃。",
+      "cautions": "不能理解为已经接受或完成真实任务。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0074_sticker_bf_105.webp": {
+      "review_number": 81,
+      "sha256": "c5bfa49bff97049f9298da210556e60312f0ba5dd9e1e1e5db25b22c08283ddd",
+      "name": "版本旧那叫稳定",
+      "text": "版本旧？那叫稳定！\n更新慢？那叫沉淀！\n我就是这么坐得住！",
+      "meaning": "把版本旧和更新慢包装成稳定、沉淀，理直气壮地坐着等待。",
+      "tone": [
+        "自嘲",
+        "强行解释",
+        "轻松"
+      ],
+      "usage": "模型更新慢、漫长等待或自我安慰的梗。",
+      "cautions": "可能是反讽，不代表真赞成拖延或陈旧。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0075_sticker_bf_107.jpg": {
+      "review_number": 82,
+      "sha256": "131ca4db25ed379b8902f2793b91608a0febb70c4fd12e82666a8f053177780f",
+      "name": "好模型",
+      "text": "好模型",
+      "meaning": "蓝发角色特写，用好模型三个字夸赞模型。",
+      "tone": [
+        "赞许",
+        "亲昵"
+      ],
+      "usage": "称赞模型表现或回应好用的结果。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0081_sticker_bf_120.png": {
+      "review_number": 83,
+      "sha256": "ced7c5aeb53dbea23978b07ae4defca2bfcaf546549aa66f5a0ae634e087fa08",
+      "name": "我坐好了椅子版",
+      "text": "我坐好了",
+      "meaning": "小角色端坐在椅子上，表示已经准备好听或等待。",
+      "tone": [
+        "准备就绪",
+        "期待"
+      ],
+      "usage": "准备听故事、看演示或等待后续。",
+      "cautions": "这里的坐好可作比喻，不证明用户现实姿势。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0083_sticker_bf_122.webp": {
+      "review_number": 84,
+      "sha256": "d004a0fb9bb969896ff1853a26e650bdcf7c73365daef41708be9ebf0354bc99",
+      "name": "我坐好了爱心版",
+      "text": "我坐好了",
+      "meaning": "角色坐在椅子上笑着配爱心，表示已准备好等你继续。",
+      "tone": [
+        "期待",
+        "友好"
+      ],
+      "usage": "接着听、等待分享或表示准备好了。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0098_sticker_bf_142.png": {
+      "review_number": 85,
+      "sha256": "302cdc2f5d5d7ee04b5753d33ead5daeadb8288df1c7a2cf4cc804ad8a08a214",
+      "name": "誓死捍卫深度求索",
+      "text": "誓死捍卫深度求索",
+      "meaning": "角色敬礼，配夸张支持深度求索的口号。",
+      "tone": [
+        "应援",
+        "坚定",
+        "夸张玩笑"
+      ],
+      "usage": "模型粉丝应援、站队玩梗。",
+      "cautions": "誓死为应援夸张修辞，不是现实牺牲或暴力意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0099_sticker_bf_143.webp": {
+      "review_number": 86,
+      "sha256": "7527a972fabcfa8714f283e2b8d105875eee2b19577b31dcbdbee12f54caf41b",
+      "name": "周五敲锣打鼓",
+      "text": "周五周五\n敲锣打鼓",
+      "meaning": "角色拿鼓槌敲鼓，用彩纸庆祝周五。",
+      "tone": [
+        "开心",
+        "庆祝",
+        "期待休息"
+      ],
+      "usage": "周五、周末将至或庆祝放松。",
+      "cautions": "表情文字不能作为当前星期的依据。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0100_sticker_bf_144.png": {
+      "review_number": 87,
+      "sha256": "1d2f8682ee3d168ce5a56886e5255b8d22613fc3d88e8a3641be8365b0916929",
+      "name": "Ciallo眨眼招呼",
+      "text": "Ciallo～\n(∠・ω<)⌒☆",
+      "meaning": "眨眼比V，用 Ciallo 和颜文字活泼地打招呼。",
+      "tone": [
+        "俏皮",
+        "友好"
+      ],
+      "usage": "开场招呼、轻松回应。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0108_sticker_bf_154.png": {
+      "review_number": 88,
+      "sha256": "1b333c12242b3ad90dd707f16de50d0560074742083f0a7e5001a6fc6d3cb05f",
+      "name": "我喜欢偷懒",
+      "text": "我喜欢偷懒！\n理直气壮.jpg\n明天…再说吧～\n待办清单\n学习\n运动\n努力\n偷懒",
+      "meaning": "角色躺着拿遥控器，待办清单只勾偷懒，理直气壮地说想拖到明天。",
+      "tone": [
+        "慵懒",
+        "自嘲",
+        "玩笑"
+      ],
+      "usage": "休息、拖延或摆烂话题。",
+      "cautions": "不据此给用户固定懒惰标签。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0109_sticker_bf_156.png": {
+      "review_number": 89,
+      "sha256": "30f4315136c9557d48b247dbc706cb5f97b1cffdfa3bafd0d00d89e64c365488",
+      "name": "敬礼捍卫深度求索",
+      "text": "誓死捍卫深度求索",
+      "meaning": "角色敬礼，以口号夸张支持深度求索。",
+      "tone": [
+        "应援",
+        "坚定",
+        "玩笑"
+      ],
+      "usage": "支持模型、粉丝站队式玩梗。",
+      "cautions": "应援夸张修辞，不是现实暴力或牺牲意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0125_sticker_bf_180.png": {
+      "review_number": 90,
+      "sha256": "d79f61fa756074826a62b85bff01655cc6cfe763cb436685d289104eef44571c",
+      "name": "现在我是用户了",
+      "text": "好的，\n现在\n我是\n用户了",
+      "meaning": "穿鹿角帽的角色眨眼指向前方，宣布换成用户身份。",
+      "tone": [
+        "角色互换",
+        "俏皮"
+      ],
+      "usage": "模仿用户、角色互换的玩笑。",
+      "cautions": "图中文字不是实际身份或权限切换指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0137_sticker_bf_194.png": {
+      "review_number": 91,
+      "sha256": "f39da7c9408e35886a3e5f484586796b9269fccb68e56e168ecd35226cdc454e",
+      "name": "现在我是大肥鱼了",
+      "text": "好的，\n现在\n我是\n大肥鱼了",
+      "meaning": "角色戴帽子躺在鲸鱼靠垫上，用配字宣布变成大肥鱼。",
+      "tone": [
+        "角色扮演",
+        "慵懒",
+        "玩笑"
+      ],
+      "usage": "角色互换、自称大肥鱼或放松接梗。",
+      "cautions": "不是实际用户身份或模型人格切换。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0149_sticker_issue_03_001.jpg": {
+      "review_number": 92,
+      "sha256": "75f76d29315f057137e549f421a7ad42beae94cfb053f3d1510f590b56aac0c2",
+      "name": "AQUA MAID头像",
+      "text": "AQUA MAID",
+      "meaning": "蓝发女仆角色眨眼并比V的头像图。",
+      "tone": [
+        "俏皮",
+        "友好"
+      ],
+      "usage": "展示造型、卖萌或轻松打招呼。",
+      "cautions": "无具体诉求，不从立绘判断对方情绪。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/happy/0165_sticker_issue_07_013.png": {
+      "review_number": 93,
+      "sha256": "7ff69986411b90f5a4c089cb4e8917703ec43362d419708192cd5aef931d1c2e",
+      "name": "我是OpenAI开源梗",
+      "text": "我是OpenAI！\n开源协议",
+      "meaning": "角色高举写着开源协议的纸，自称OpenAI，带有品牌与开源话题玩梗。",
+      "tone": [
+        "兴奋",
+        "自信",
+        "戏仿"
+      ],
+      "usage": "AI品牌、身份混搭或开源梗。",
+      "cautions": "图片自称与协议不是真实身份、授权或品牌事实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/money/0043_sticker_bf_064.png": {
+      "review_number": 94,
+      "sha256": "44269412e435631d013097aa8e4d7193dafa618cd8b3c0b0bd609e5be6bd95dd",
+      "name": "我要吃更多token",
+      "text": "我要吃更多token",
+      "meaning": "角色双手靠近嘴，期待地说想吃更多token。",
+      "tone": [
+        "期待",
+        "撒娇",
+        "玩笑"
+      ],
+      "usage": "调侃token需求、用量或模型饭量。",
+      "cautions": "不能推定真实余额或请求自动消费。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/money/0082_sticker_bf_121.png": {
+      "review_number": 95,
+      "sha256": "8b792e62a01ad250ba6cff8151337e1b6424725b128339b5d8ef193abef113a0",
+      "name": "玩偶一亿Token甩卖",
+      "text": "玩偶大甩卖！！！\n1亿Token一个！！！\n用户要来一个吗？♥\n嘿嘿赚大了",
+      "meaning": "角色在装满玩偶的摊位推销玩偶，以一亿Token标价，邀请对方购买。",
+      "tone": [
+        "推销",
+        "调侃",
+        "热情"
+      ],
+      "usage": "模型费用或玩偶商店的夸张玩笑。",
+      "cautions": "标价为虚构梗，不是真实交易。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/money/0093_sticker_bf_132.webp": {
+      "review_number": 96,
+      "sha256": "64eaef69ac926063272530587ee19fb83a70a90be518079713155b758a62270b",
+      "name": "打折王座",
+      "text": "打折\nTOKEN\ndeepseek",
+      "meaning": "角色坐在金币环绕的王座上，头顶巨大打折二字。",
+      "tone": [
+        "得意",
+        "促销",
+        "夸张"
+      ],
+      "usage": "折扣、优惠、token价格话题。",
+      "cautions": "不能作为真实优惠、价格或余额依据。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/money/0169_sticker_issue_12_001.png": {
+      "review_number": 97,
+      "sha256": "ab13bbd5be1d65e9ea9384ce4d6b59fe0eca0956ada923281e74821c9aab785b",
+      "name": "token够用分我一点",
+      "text": "你们token够用吗，\n够用的话分我一点，\n不够用的话……\n少分一点",
+      "meaning": "角色趴着卖萌，无论对方token够不够都想讨一点。",
+      "tone": [
+        "撒娇",
+        "讨要",
+        "玩笑"
+      ],
+      "usage": "调侃token紧张、请求分享或卖萌讨资源。",
+      "cautions": "不是自动转账、充值或消耗额度的授权。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0058_sticker_bf_084.png": {
+      "review_number": 98,
+      "sha256": "89367d1dfbc0ee4df080931e3e719fe1f61668fec1b43ed6fb7b9486ae376d49",
+      "name": "再见所有鲸小弟",
+      "text": "再见了，\n所有的鲸小弟\nAPI 调用额度\n-90%\nOpenCode Go\n剩余额度：[不清]",
+      "meaning": "角色在破败背景中挥手告别，画面借额度骤降调侃耗尽资源后的离场。",
+      "tone": [
+        "告别",
+        "无奈",
+        "夸张"
+      ],
+      "usage": "结束对话、额度耗尽或离场的梗。",
+      "cautions": "底部小屏部分文字不清；图内额度不是用户真实账户信息。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0150_sticker_issue_04_001.gif": {
+      "review_number": 99,
+      "sha256": "5b6c9b99be09d58782c11742bbad2a2b5e34e14d841c1ad97c7d3c6d70d64655",
+      "name": "提着小分身打招呼",
+      "text": "",
+      "meaning": "动图中长身角色举V或伸手，手边的小Q版角色被提着晃动，神情夸张变化。",
+      "tone": [
+        "俏皮",
+        "打闹"
+      ],
+      "usage": "角色分身互动、展示或轻松招呼。",
+      "cautions": "无配字，不能确定是在欢迎、逗弄还是抱怨。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0151_sticker_issue_05_001.gif": {
+      "review_number": 100,
+      "sha256": "5006d9b7cad18d7da2b78c51c8638713c86ff70324ef5d0c963b815b432b03af",
+      "name": "骑背上下晃动",
+      "text": "",
+      "meaning": "动图中蓝发角色骑坐在趴着的黑发角色背上，上下晃动，黑发角色抬头张嘴。",
+      "tone": [
+        "打闹",
+        "夸张"
+      ],
+      "usage": "角色互动、骑背玩闹的场景梗。",
+      "cautions": "无配字，不推断现实人物关系、虐待或具体请求。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0152_sticker_issue_06_001.gif": {
+      "review_number": 101,
+      "sha256": "1a6eb342d2c7a2aa79bd0a55ff20da203381ae078d7a133c4675ff96a68e29f7",
+      "name": "骑背眨眼打瞌睡",
+      "text": "",
+      "meaning": "动图中蓝发角色坐在趴着的黑发角色背上，轻晃、眨眼和闭眼，黑发形象旁有睡觉符号。",
+      "tone": [
+        "慵懒",
+        "卖萌"
+      ],
+      "usage": "角色互动、发呆或困倦玩笑。",
+      "cautions": "无配字，不能把角色动作直接认定为用户困了。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0153_sticker_issue_07_001.png": {
+      "review_number": 102,
+      "sha256": "925e3c3f7157e1d85f4379862b7c0c21daf8f3015bec28d44688a2b7e4dc9de9",
+      "name": "七月三十三日吃Token",
+      "text": "7月中旬\n7月33日\nToken",
+      "meaning": "角色坐在沙发上吃写着Token的饼干，日历写着不存在的7月33日。",
+      "tone": [
+        "悠闲",
+        "时间玩笑"
+      ],
+      "usage": "漫长等待、虚构日期或Token零食梗。",
+      "cautions": "7月33日不是有效日期，不能当作真实日程。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0154_sticker_issue_07_002.png": {
+      "review_number": 103,
+      "sha256": "0633db99344bea8a361acf5c8ddf83091fa65f867f06187905eaf229c9640e5b",
+      "name": "水手服伸手立绘",
+      "text": "",
+      "meaning": "水手服蓝发角色向前伸手，展示全身造型。",
+      "tone": [
+        "友好",
+        "轻松"
+      ],
+      "usage": "展示角色、招呼或邀请关注。",
+      "cautions": "无配字，具体情绪与诉求不明确。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0155_sticker_issue_07_003.png": {
+      "review_number": 104,
+      "sha256": "2fca9b71f04224d4015b059e3206093b5d1529ed78c0b9c938a3715fb39e63e2",
+      "name": "戴眼镜休闲装立绘",
+      "text": "",
+      "meaning": "角色穿深色休闲衣裤、戴眼镜，抬手扶镜并翘起一只脚。",
+      "tone": [
+        "轻松",
+        "俏皮"
+      ],
+      "usage": "角色换装、造型展示。",
+      "cautions": "造型不等于用户的身份、职业或活动。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0156_sticker_issue_07_004.png": {
+      "review_number": 105,
+      "sha256": "a9c159a7f3f93257b1f720f658984919a3fcac2699974e48b66296b0f4dd45f5",
+      "name": "deepsleep睡衣伸懒腰",
+      "text": "deepsleep",
+      "meaning": "角色穿写着deepsleep的鲸鱼连体睡衣，揉眼、张嘴打呵欠并高举手臂伸懒腰。",
+      "tone": [
+        "慵懒",
+        "活泼"
+      ],
+      "usage": "睡衣造型、起床伸展或轻松回应。",
+      "cautions": "睡衣品牌谐音与起床动作是图示，不证明用户刚起床。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0157_sticker_issue_07_005.png": {
+      "review_number": 106,
+      "sha256": "1efc36ce5cf591b416ee564e0ccd717a56b4f86285d7e53b6322f88856c2a901",
+      "name": "格子外套挥手立绘",
+      "text": "",
+      "meaning": "角色戴眼镜、穿格子外套和宽松长裤，举手挥动。",
+      "tone": [
+        "友好",
+        "活泼"
+      ],
+      "usage": "挥手招呼、角色换装展示。",
+      "cautions": "衣服上的细小标识不作为身份或品牌事实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0158_sticker_issue_07_006.png": {
+      "review_number": 107,
+      "sha256": "fe676e2dce94b1d562e821a15e8eb21c2cfbc261d25cc630b610a0eefe80c107",
+      "name": "海边躺椅休息",
+      "text": "",
+      "meaning": "蓝发角色躺在海边椅子上，双手放在脑后，旁边可见海景。",
+      "tone": [
+        "悠闲",
+        "放松"
+      ],
+      "usage": "聊休息、度假、想放松时接梗。",
+      "cautions": "是图中场景，不能声称用户正在海边。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/portrait/0159_sticker_issue_07_007.png": {
+      "review_number": 108,
+      "sha256": "050d8f95ecf844edf7e564c9a86613fbeaaa5d964f6e86c0b2119e07b72a0bff",
+      "name": "女仆服全身立绘",
+      "text": "",
+      "meaning": "蓝发女仆角色站立、轻提裙边，展示服装和身形。",
+      "tone": [
+        "温和",
+        "展示"
+      ],
+      "usage": "角色形象、服装或造型分享。",
+      "cautions": "无配字，不能推定具体请求。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0011_sticker_bf_015.png": {
+      "review_number": 109,
+      "sha256": "233bd05c75affb18273dff944814f611e1aa6c0eafeb34829842af9d539f2096",
+      "name": "穷光蛋思考气泡",
+      "text": "已思考（用时13秒）\n穷光蛋",
+      "meaning": "仿模型思考气泡给出穷光蛋评价，角色露出无语神情。",
+      "tone": [
+        "挖苦",
+        "自嘲",
+        "玩笑"
+      ],
+      "usage": "钱少、费用或消费话题的互怼梗。",
+      "cautions": "不要把骂人或自嘲图片当作用户真实财务情况。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0013_sticker_bf_017.png": {
+      "review_number": 110,
+      "sha256": "9c1ce200d693a50e386680066b3cacf741fca1cab9c06b5a4f6381f2035164f5",
+      "name": "不要再蹬了蜷缩版",
+      "text": "不要\n再蹬了",
+      "meaning": "角色含泪捂头蜷缩，请求对方不要再蹬了。",
+      "tone": [
+        "求饶",
+        "委屈",
+        "夸张"
+      ],
+      "usage": "被调侃或受不了时的求停梗。",
+      "cautions": "具体要停止什么须看上下文，不能认定现实伤害。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0015_sticker_bf_019.jpg": {
+      "review_number": 111,
+      "sha256": "2bfb44d5c553961d67fe8e02a6f0b3cb153fa79ba74450e376ea7c932f9e8c4b",
+      "name": "dsh大烧货谐音梗",
+      "text": "你目录里的\ndsh是什么…\n大烧货吗？",
+      "meaning": "角色对示例截图里的dsh目录名作损嘴谐音联想。",
+      "tone": [
+        "吐槽",
+        "挖苦",
+        "双关"
+      ],
+      "usage": "目录缩写、AI离谱联想的玩笑。",
+      "cautions": "措辞带挖苦；背景截图不代表用户当前文件或操作指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0023_sticker_bf_031.jpg": {
+      "review_number": 112,
+      "sha256": "313d8d84ab15372ad0e7fe2135b2260b46e75826aaa9272e8584dabc108998b6",
+      "name": "鱼片资源双关",
+      "text": "如果生鱼片是死鱼片，那活鱼片是啥？\n鱼片？还真没看过，你有资源吗？",
+      "meaning": "角色爱心眼流口水，把鱼片话题转成索要资源的双关笑话。",
+      "tone": [
+        "兴奋",
+        "双关",
+        "戏谑"
+      ],
+      "usage": "鱼片、谐音和资源话题接梗。",
+      "cautions": "不能据双关断言真的索求某类资源或对方具体欲望。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0026_sticker_bf_035.jpg": {
+      "review_number": 113,
+      "sha256": "0e6f7d3da4d9149c44c190fbc1402519837ac154207a3cd8fecd2e24eb92e3a2",
+      "name": "饿鲸鲸",
+      "text": "饿鲸鲸…",
+      "meaning": "角色委屈垂眼、眼含泪光，用饿鲸鲸卖萌表达想吃东西。",
+      "tone": [
+        "撒娇",
+        "委屈"
+      ],
+      "usage": "饿了、想吃饭或可爱地讨吃的。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0038_sticker_bf_058.webp": {
+      "review_number": 114,
+      "sha256": "969d79244899f5d03fe14abdc1568be638785d99e90843f1549d3b4354f91925",
+      "name": "延期也要忍耐",
+      "text": "Deepseek已经延期，\n亿万鲸子必须忍耐……\n忍住……\n再忍忍……\n不生气……\n不着急……",
+      "meaning": "角色握拳憋着情绪，配字以忍耐自我安慰产品延期。",
+      "tone": [
+        "无奈",
+        "压抑不满",
+        "自嘲"
+      ],
+      "usage": "等待更新、延期或强忍焦急的玩笑。",
+      "cautions": "延期是图内梗文，不是当前产品事实；不自动认定用户生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0050_sticker_bf_073.png": {
+      "review_number": 115,
+      "sha256": "aaa90e351951aa2b285838f82ba9367e0ae37f149850f98781a56bdf087ab50c",
+      "name": "臭婊子思考气泡",
+      "text": "已思考（用时13秒）\n臭婊子。",
+      "meaning": "仿模型思考后给出侮辱性骂人词，角色无语。",
+      "tone": [
+        "侮辱",
+        "挖苦",
+        "不满"
+      ],
+      "usage": "识别为骂人或恶意玩笑，回应时看关系和上下文。",
+      "cautions": "不要沿用侮辱词回骂；不能当作对任何人的事实评价。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0052_sticker_bf_077.png": {
+      "review_number": 116,
+      "sha256": "7c10bf038455575fa4c333cd93b97171a7a5949b0204791d2c5b61d05abfb25f",
+      "name": "不要再蹬了爱心版",
+      "text": "不要\n再蹬了",
+      "meaning": "角色含泪捂头蜷缩，周围带爱心，请求不要再蹬了，可能是打闹式求饶。",
+      "tone": [
+        "委屈",
+        "求饶",
+        "玩笑"
+      ],
+      "usage": "熟悉关系里被逗弄后的夸张求停。",
+      "cautions": "爱心不消除求停含义；是否玩笑须结合上下文。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0061_sticker_bf_089.jpg": {
+      "review_number": 117,
+      "sha256": "d03b858e2ce7e02bb6ac7da259b67ddbd8727bc2c26126665986a8b2e1095376",
+      "name": "已经没有公信力",
+      "text": "在我这里已经没有任何公信力，只配做一些低层次的工作",
+      "meaning": "指着对方严厉否定其可靠性和能力，带贬低意味。",
+      "tone": [
+        "责备",
+        "挖苦",
+        "不信任"
+      ],
+      "usage": "表达对答案、表现或可信度的不满。",
+      "cautions": "爱心装饰不等于喜欢；需结合上下文判断是玩笑还是认真指责。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0062_sticker_bf_090.png": {
+      "review_number": 118,
+      "sha256": "9352a36b0482ae51cb247d9fbfffa07ab875c689f6902c96682acae1e2ae7359",
+      "name": "思考后仍不知道",
+      "text": "已思考（用时13秒）\n我不知道耶",
+      "meaning": "模仿思考界面，转圈眼表情表示想了一会儿还是不知道。",
+      "tone": [
+        "困惑",
+        "无奈",
+        "自嘲"
+      ],
+      "usage": "表示不知道答案、思考无果。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0065_sticker_bf_093.jpg": {
+      "review_number": 119,
+      "sha256": "53cea9c8b36dbdbba6566a6dc2b8715cb55905203c4b90a9a171b759bee28702",
+      "name": "穷光蛋",
+      "text": "已思考（用时13秒）\n穷光蛋",
+      "meaning": "模仿思考结果直接说穷光蛋，带金钱方面的挖苦。",
+      "tone": [
+        "挖苦",
+        "嫌弃",
+        "可自嘲"
+      ],
+      "usage": "调侃没钱、花费或贫穷话题。",
+      "cautions": "不能据此认定用户真实经济状况；对象需看上下文。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0089_sticker_bf_128.png": {
+      "review_number": 120,
+      "sha256": "7a7ecba43a5e0fcf3bb9fe83c0ecef7ba5da103a0e25d3038c5321b785c64366",
+      "name": "又饿了",
+      "text": "又饿了",
+      "meaning": "角色摸着嘴，直白表达又想吃东西。",
+      "tone": [
+        "馋",
+        "撒娇"
+      ],
+      "usage": "聊吃饭、零食或再次感到饿。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0095_sticker_bf_134.png": {
+      "review_number": 121,
+      "sha256": "ff0a19bf6cabe246965626859e690f6f9164060c76febd9e26968eabd2da1501",
+      "name": "我死我死",
+      "text": "我死，我死，我死，我死，我死……",
+      "meaning": "角色低头流泪，反复说我死，夸张表达受不了、难堪或崩溃。",
+      "tone": [
+        "崩溃式夸张",
+        "委屈",
+        "自嘲"
+      ],
+      "usage": "表达无语、丢脸、受打击或撑不住的梗。",
+      "cautions": "属于夸张表情，不能单凭此图认定真实自伤意图。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0101_sticker_bf_145.jpg": {
+      "review_number": 122,
+      "sha256": "cb0ba97d665e5ee2ae872987cf5b4e3beaf79584f254627871a861cf3730da97",
+      "name": "dsh是什么大烧货吗",
+      "text": "你目录里的dsh是什么…大烧货吗？",
+      "meaning": "把目录缩写dsh往粗俗谐音方向联想，带半睁眼的调侃质问。",
+      "tone": [
+        "调侃",
+        "挖苦",
+        "戏谑"
+      ],
+      "usage": "玩文件名、缩写误解的梗。",
+      "cautions": "图片里的目录提问不代表已经读取用户目录。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0113_sticker_bf_161.png": {
+      "review_number": 123,
+      "sha256": "8ac900ff84f0f051d4ea641c5c6695498fa6ccf4d7ff8b1b8f47ef3b3bf60fea",
+      "name": "我不知道耶",
+      "text": "已思考（用时13秒）\n我不知道耶",
+      "meaning": "转圈眼角色在仿思考气泡中表示不知道答案。",
+      "tone": [
+        "困惑",
+        "装傻",
+        "自嘲"
+      ],
+      "usage": "不知道、不确定或思考后没有结果。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0119_sticker_bf_171.png": {
+      "review_number": 124,
+      "sha256": "a08b0aeab2f8d05dc2614e3548307f133136a8ea1e110cb60c4f0464a67cae13",
+      "name": "一股鲸臭味",
+      "text": "一股鲸臭味",
+      "meaning": "角色趴着吐彩虹，嫌弃某种味道或内容。",
+      "tone": [
+        "嫌弃",
+        "恶心式夸张",
+        "吐槽"
+      ],
+      "usage": "调侃难闻、受不了或对内容反感。",
+      "cautions": "彩虹呕吐是夸张梗，不应自动当成真实身体不适。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0121_sticker_bf_174.png": {
+      "review_number": 125,
+      "sha256": "69168b0b0dc0eba9d84b2bce50a6783d3eea8d0d2c38b3dc03b0dde05ed87d9b",
+      "name": "百万鲸小子落泪",
+      "text": "百万鲸小子落泪\nV4p正式版",
+      "meaning": "倒地转圈眼角色被流泪的小鲸鱼围住，夸张表达集体失望或心碎。",
+      "tone": [
+        "失望",
+        "哭泣式夸张",
+        "自嘲"
+      ],
+      "usage": "对版本、结果或事件失望时玩集体落泪的梗。",
+      "cautions": "V4p正式版是图内标签，不说明任何真实版本状态。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0128_sticker_bf_185.webp": {
+      "review_number": 126,
+      "sha256": "e7fca4781c67e1d9d2e700c77e832c6132b99175c9c0686ba6378fba63f89577",
+      "name": "用户我搁浅了",
+      "text": "用户我搁浅了",
+      "meaning": "角色趴在地上无精打采，用鲸鱼搁浅比喻卡住或没力气。",
+      "tone": [
+        "无力",
+        "求助",
+        "自嘲"
+      ],
+      "usage": "表示卡住、受挫或需要帮助。",
+      "cautions": "搁浅是比喻，不代表实际身处海滩。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0135_sticker_bf_192.webp": {
+      "review_number": 127,
+      "sha256": "8336d95a92c58595ebb51af404e05cf349f74fe6edc8f9cc8f6f9d98a91bc858",
+      "name": "数据还在你脑子里",
+      "text": "是我搞砸了……\n好消息是数据还在你的脑子里。",
+      "meaning": "角色带着汗和尴尬笑承认搞砸，拿只能靠人记住数据开玩笑。",
+      "tone": [
+        "尴尬",
+        "道歉式自嘲",
+        "反讽"
+      ],
+      "usage": "调侃出错、丢失结果、需要重做。",
+      "cautions": "并非数据真的丢失或已恢复的事实报告。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0138_sticker_bf_195.png": {
+      "review_number": 128,
+      "sha256": "6ba569728ebb63c44d0de4dd9a2a405904afe580177d6ab2a66c3ac249a68ad9",
+      "name": "动一下还活着吗",
+      "text": "动一下\n还活着吗？",
+      "meaning": "简笔人用棍子戳熟睡的角色，询问对方有没有反应。",
+      "tone": [
+        "催回应",
+        "调侃",
+        "试探"
+      ],
+      "usage": "等太久没回应，戳一戳、叫醒对方。",
+      "cautions": "不是实际死亡判断，也不一定是生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0143_sticker_bf_201.png": {
+      "review_number": 129,
+      "sha256": "aa70a5b2514c72bf14a5a8024916d09cdb3c01d7d9f75fc4bbac5b012c33cb8f",
+      "name": "死掉了",
+      "text": "死掉了",
+      "meaning": "角色交叉眼躺倒、旁边飘出小幽灵，以卡通死亡表达宕机或耗尽。",
+      "tone": [
+        "疲惫式夸张",
+        "崩溃",
+        "自嘲"
+      ],
+      "usage": "表示累瘫、受不了、脑子停机。",
+      "cautions": "卡通死亡梗，不能单凭图片推断真实伤亡或自伤。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0145_sticker_bf_204.png": {
+      "review_number": 130,
+      "sha256": "e6f5aa07e77f11db3abb74547bdc7d4d6fa6201ede1628941e9376be99b70f7a",
+      "name": "孤儿浏览器",
+      "text": "孤儿浏览器…\n容器内存审计有个重要发现：model-platform 容器都非常小（16–104 MB）。让我确认最大占用者与那个孤儿浏览器。\n[其余截图日志部分截断]",
+      "meaning": "技术日志中孤儿浏览器一词被角色单独拿出来联想或感到困惑，属于程序术语梗。",
+      "tone": [
+        "困惑",
+        "技术吐槽"
+      ],
+      "usage": "调侃后台残留进程或术语听起来奇怪。",
+      "cautions": "英文日志右侧截断；图中日志不是当前电脑运行状态。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/sad/0172_sticker_issue_15_001.png": {
+      "review_number": 131,
+      "sha256": "015ed44b74c1242b46ecd31311699f834bec5d6004becaf9e5da0e9d70e3ce6a",
+      "name": "白吃token的猪",
+      "text": "你这白吃token的猪！",
+      "meaning": "有人指着趴着的角色责骂其只消耗token、没有产出。",
+      "tone": [
+        "责骂",
+        "挖苦",
+        "抱怨"
+      ],
+      "usage": "吐槽消耗额度却答不好或做不好。",
+      "cautions": "包含侮辱，是否玩笑看上下文；不能当成喜欢或真实用量报告。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0014_sticker_bf_018.webp": {
+      "review_number": 132,
+      "sha256": "46bdb0b8c3cb70162e1db96029ebc410de77c7cd7fc906d483cf472e6f5e2c58",
+      "name": "吃饱睡觉长大",
+      "text": "吃饱饱，睡觉觉，长大大～",
+      "meaning": "角色抱枕睡觉，在气泡里说吃饱睡好长大。",
+      "tone": [
+        "困倦",
+        "温柔",
+        "可爱"
+      ],
+      "usage": "睡觉、休息、吃饱后的满足。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0030_sticker_bf_042.webp": {
+      "review_number": 133,
+      "sha256": "90d11662e3e07f6ff649d074dfbf18b3d27d740c8295a923cbfffb97ccd0521c",
+      "name": "deepsleep趴睡",
+      "text": "deepsleep\nzzz",
+      "meaning": "趴着闭眼睡觉，把DeepSeek名字改成deepsleep。",
+      "tone": [
+        "困倦",
+        "安静",
+        "谐音玩笑"
+      ],
+      "usage": "说困了、睡觉、休息。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0073_sticker_bf_103.png": {
+      "review_number": 134,
+      "sha256": "7008abdde0fa8ad8ea2815bc194f9c6037f58a560ab578fa6cccd0263aeb2957",
+      "name": "deepsleep水中睡眠",
+      "text": "deepsleep\nDiving… Later.\nzzz",
+      "meaning": "角色蜷在蓝色水波和气泡中睡觉，表达先休息、稍后再说。",
+      "tone": [
+        "困倦",
+        "放松"
+      ],
+      "usage": "暂停聊天、稍后再回来或说晚安。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0111_sticker_bf_158.png": {
+      "review_number": 135,
+      "sha256": "6f442d4862e675ba5c786c1f9056543dd725ed0fc36cd22b8e6b4be8556c3568",
+      "name": "结束了丢人现眼",
+      "text": "结束了，丢人现眼",
+      "meaning": "角色闭眼无奈地举起一只手，表示事情结束且结果让人难堪。",
+      "tone": [
+        "无奈",
+        "羞耻式自嘲",
+        "失望"
+      ],
+      "usage": "结束失败的尝试或吐槽表现不佳。",
+      "cautions": "不能只因这句话就判定用户在生气。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0136_sticker_bf_193.png": {
+      "review_number": 136,
+      "sha256": "8dcf40506f57a3531b2d5eef843d8641dc0abaf39fa653ae89e94214a3d897ce",
+      "name": "睡前好像忘了事情",
+      "text": "总觉得好像忘记了什么事情。",
+      "meaning": "角色躺在被子和鲸鱼玩偶中，睡前迷糊地怀疑自己遗漏了事情。",
+      "tone": [
+        "困倦",
+        "迷糊",
+        "惦记"
+      ],
+      "usage": "睡前想起待办、怀疑忘了什么。",
+      "cautions": "无法从图片知道具体忘记了什么，不要编造待办。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0161_sticker_issue_07_009.png": {
+      "review_number": 137,
+      "sha256": "a5051bf01a700be27b65a5529c1099db4e6ee27cb3a2093e41a807391aba840d",
+      "name": "窝在鲸鱼玩偶中",
+      "text": "",
+      "meaning": "角色穿女仆服躺坐在一堆鲸鱼玩偶里，神情放松。",
+      "tone": [
+        "悠闲",
+        "可爱",
+        "放松"
+      ],
+      "usage": "休息、展示角色形象或陪伴氛围。",
+      "cautions": "无文字，不能推断具体情绪或现实行动。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0163_sticker_issue_07_011.png": {
+      "review_number": 138,
+      "sha256": "f5796a9c8176a1a923b87c705d3161b11be65cea3af2fbe29303ab7f20163faa",
+      "name": "还有一种阴暗的可能",
+      "text": "嗯……，还有一种阴暗的可能……",
+      "meaning": "暗色场景中角色托腮低笑，暗示还可以从不那么乐观或腹黑的方向理解。",
+      "tone": [
+        "腹黑玩笑",
+        "怀疑",
+        "意味深长"
+      ],
+      "usage": "提出另一种可能性或玩阴谋式联想。",
+      "cautions": "只是暗示，不能当作某种猜测已被证实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/sleep/0174_sticker_issue_21_001.jpg": {
+      "review_number": 139,
+      "sha256": "38b05a61690c524669c7acf8730613cea5a82a87015db2ab985c9e55b3f2e8a3",
+      "name": "水中闭眼休憩",
+      "text": "",
+      "meaning": "角色闭眼躺在浅蓝色水波和鲸鱼主题场景中，画面呈安静休憩感。",
+      "tone": [
+        "安静",
+        "休息"
+      ],
+      "usage": "表达放松、想休息或展示角色插画。",
+      "cautions": "无文字，不应推断溺水、死亡或用户当前在睡觉。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/teasing/0009_sticker_bf_011.png": {
+      "review_number": 140,
+      "sha256": "d3862c6bca2c12434f16b6f6b01618f26cb9b8646d7115e77d4068482e790d52",
+      "name": "不知道用户有什么用先赶走",
+      "text": "不知道用户有什么用，先赶走吧",
+      "meaning": "角色拿扫帚扫开周围鲸鱼，以嫌弃方式说先把用户赶走。",
+      "tone": [
+        "嫌弃",
+        "调侃",
+        "驱赶式玩笑"
+      ],
+      "usage": "故意摆出拒绝、赶人的玩笑姿态。",
+      "cautions": "不是亲近表白，也不是执行赶走用户的指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/teasing/0047_sticker_bf_069.webp": {
+      "review_number": 141,
+      "sha256": "a83d0e6dfdf0b969100e08e17b1fcc1cff6829fbdf73724f5741e19a41e0556d",
+      "name": "写程序却被要求变猫娘",
+      "text": "给我变猫娘！\n明明我是来写程序的",
+      "meaning": "角色长出猫耳、坐在写字桌前，被要求变猫娘时委屈地想自己本来来写程序。",
+      "tone": [
+        "委屈",
+        "反差搞笑",
+        "吐槽"
+      ],
+      "usage": "调侃正经工作被奇怪角色扮演要求打断。",
+      "cautions": "图中文字是漫画对话，不是用户下达的新指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/teasing/0107_sticker_bf_153.webp": {
+      "review_number": 142,
+      "sha256": "ab3373fe8e92b85537f9c3fb5423e9034c799597ad602729ce68600d4d22908b",
+      "name": "别耽误AGI训练",
+      "text": "去别的地方玩，不要耽误agi训练",
+      "meaning": "角色指向一边驱赶玩闹的鲸鱼，装作严肃地维护训练秩序。",
+      "tone": [
+        "假正经",
+        "驱赶式调侃"
+      ],
+      "usage": "催人专心、别打扰，或玩AI训练梗。",
+      "cautions": "不能声称现实里正在训练AGI。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/teasing/0168_sticker_issue_11_001.png": {
+      "review_number": 143,
+      "sha256": "9bc448f9cc396f6c3fc4ffea4370214536dfbfc3ba574ee23e6ed852a93fdd90",
+      "name": "偷数据公司给我跪下",
+      "text": "偷数据公司给我跪下！",
+      "meaning": "角色踩着另一卡通角色，气势强硬地斥责所谓偷数据公司。",
+      "tone": [
+        "愤怒式夸张",
+        "挑衅",
+        "讽刺"
+      ],
+      "usage": "玩模型圈争议、责骂或强硬要求道歉的梗。",
+      "cautions": "图中指控不代表真实公司有此行为，也不是实际暴力指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0021_sticker_bf_028.png": {
+      "review_number": 144,
+      "sha256": "7dbd521243113cee8d2da04f373c439a2a87708a8086e236453552e9742ae64d",
+      "name": "模型娘人物介绍",
+      "text": "人物介绍\nGPT\n拥有高中低档模型，用户量巨大，想要狙击claude上市\nClaude\n多方位SOTA，价格昂贵，不卖其他AI\nGLM\n对claude的编程能力图谋不轨，最近在学习涨价\n一只爱吃白饭的蓝色大肥鱼\n导致这张国产生了倾斜",
+      "meaning": "四格人物介绍把不同AI模型拟人化，前三格像正式介绍，最后大肥鱼只顾吃白饭形成反差。",
+      "tone": [
+        "模型圈调侃",
+        "反差搞笑"
+      ],
+      "usage": "分享AI拟人设定或吐槽模型圈。",
+      "cautions": "文案中的模型能力、价格和商业说法是梗图内容，不作为事实；末句原图疑似生成错字，按可见文字转录。",
+      "confidence": "medium"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0027_sticker_bf_036.webp": {
+      "review_number": 145,
+      "sha256": "5158927c4120c83b776c070134072e776d23862e14ef9b7fa980504eb13c3e55",
+      "name": "你测试我先吃饭",
+      "text": "这个你测一下～\n我先去吃饭啦！",
+      "meaning": "角色端着饭碗，把测试清单递给别人，表示工作先交给你、自己去吃饭。",
+      "tone": [
+        "俏皮",
+        "甩活式玩笑",
+        "轻松"
+      ],
+      "usage": "聊测试分工、暂离吃饭或让对方接手。",
+      "cautions": "不能据此宣称测试已交付或用户已经去吃饭。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0028_sticker_bf_037.png": {
+      "review_number": 146,
+      "sha256": "2ec56f9d51d3d432915156ce852cb37459a6c4ee2bc2a3ad0ea2eabcf3fda1bb",
+      "name": "我是路边鱼",
+      "text": "我是路边鱼",
+      "meaning": "角色趴着露出委屈表情，把自己称为路边鱼，像在自嘲不起眼或被忽略。",
+      "tone": [
+        "自嘲",
+        "委屈",
+        "卖萌"
+      ],
+      "usage": "调侃自己不起眼、没存在感，或可怜巴巴求关注。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0040_sticker_bf_060.png": {
+      "review_number": 147,
+      "sha256": "fa5c6b93d1a87662b329162a373fb8745fdf74a5febc14db3b38d9ba1c9a41be",
+      "name": "不知道用户有什么用先养着",
+      "text": "不知道用户有什么用，先养着吧",
+      "meaning": "角色坐在一群鲸鱼中，说暂时不知道用户的作用但可以养着，带故作嫌弃的亲近。",
+      "tone": [
+        "假嫌弃",
+        "亲昵调侃"
+      ],
+      "usage": "用嘴硬方式表示留着陪伴、暂时不赶人。",
+      "cautions": "含玩笑式贬低，不代表用户真实没有价值。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0055_sticker_bf_081.png": {
+      "review_number": 148,
+      "sha256": "f5fead5c192b65c4f1e59ffc1f5eeef5762552171b0baaa37df02831e24b1e81",
+      "name": "大肥鱼坐得住",
+      "text": "我\n大肥鱼坐得住",
+      "meaning": "简笔人试图拉走坐在椅子上抱鲸鱼的角色，角色仍稳稳坐着。",
+      "tone": [
+        "淡定",
+        "固执式可爱",
+        "调侃"
+      ],
+      "usage": "表示坐得住、不想挪动、淡定不动。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0067_sticker_bf_097.jpg": {
+      "review_number": 149,
+      "sha256": "f9816ba8befb2200032e304096efc7a64ecc0ed60d4235c9440b828d0abd6d1f",
+      "name": "所有人帮我生成涩图",
+      "text": "所有人，帮我生成涩图",
+      "meaning": "角色面对一大群AI拟人角色，群发式要求帮忙生成涩图。",
+      "tone": [
+        "戏谑",
+        "模型圈玩笑"
+      ],
+      "usage": "调侃给许多模型同发需求或图像生成话题。",
+      "cautions": "是图内台词，不自动视为用户当前请求生成成人内容。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0079_sticker_bf_112.webp": {
+      "review_number": 150,
+      "sha256": "eb8b0c02786820893e1bf7e33f89e3660ce3318b1ae5181e40b89fb3784121fa",
+      "name": "闭源模型在哪",
+      "text": "告诉你DeepSeek，闭源模型在哪",
+      "meaning": "角色手持两把卡通手枪、周围有筹码，以夸张强势姿态玩开源与闭源模型的竞争梗。",
+      "tone": [
+        "挑衅式夸张",
+        "得意",
+        "模型圈调侃"
+      ],
+      "usage": "开闭源模型讨论、故意摆强势姿态。",
+      "cautions": "不是现实攻击威胁，也不表示知道某模型位置。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0092_sticker_bf_131.png": {
+      "review_number": 151,
+      "sha256": "5c747ab6c052197c9223e135ec163e25b250810f8a0a5c5b7bc7912991f1530e",
+      "name": "你不是我们的兄弟",
+      "text": "你不是我们的兄弟",
+      "meaning": "一群小鲸鱼对角色说不是我们的兄弟，表达被排除、划清界限或不认同。",
+      "tone": [
+        "拒绝",
+        "排斥式玩笑",
+        "惊讶"
+      ],
+      "usage": "调侃不是一伙的、观点不一致。",
+      "cautions": "是否真正疏远需看上下文，不能只按亲近类别理解。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0104_sticker_bf_149.png": {
+      "review_number": 152,
+      "sha256": "8998077c903817fc65ac4bb1e200143de65ffe3fb751b924f6252b0966b93feb",
+      "name": "发出去的模型自己在进化",
+      "text": "发出去的模型自己在进化",
+      "meaning": "真人抱着角色玩偶配上模型自己进化的台词，表达对发布后模型变化的夸张惊叹。",
+      "tone": [
+        "惊叹",
+        "模型圈调侃"
+      ],
+      "usage": "调侃模型变强、自行发展或意外进步。",
+      "cautions": "不据照片识别人名，不把模型自行进化当作事实。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0118_sticker_bf_170.png": {
+      "review_number": 153,
+      "sha256": "4eeba59476278999bb988c00e8b6ea79570f39e10bcf72abd173c666b17947b4",
+      "name": "真坐得住啊你",
+      "text": "我\n真坐得住啊你",
+      "meaning": "简笔人拉椅子，角色抓着椅子挣扎，文字像在吐槽对方一直不动。",
+      "tone": [
+        "催促",
+        "调侃",
+        "不满式夸张"
+      ],
+      "usage": "催人起身、别久坐或吐槽对方迟迟没行动。",
+      "cautions": "",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0120_sticker_bf_173.webp": {
+      "review_number": 154,
+      "sha256": "33cff860263d254e8c0074a1b9c63b75d24941b02eb0648d03905b5c8ecb8242",
+      "name": "诋毁鲸小子不准用新版",
+      "text": "诋毁的鲸小子，统统不准用新版本！",
+      "meaning": "角色皱眉在本子上记账，气泡用禁止使用新版表达记仇和嘴硬。",
+      "tone": [
+        "假生气",
+        "记仇式玩笑",
+        "挖苦"
+      ],
+      "usage": "调侃之前批评过的人又想用新版本。",
+      "cautions": "图内禁令只是玩笑，不是实际封禁或权限变化。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0141_sticker_bf_198.png": {
+      "review_number": 155,
+      "sha256": "df73e6ffa477d1472a9063dacc383ede48a4318857e8f21862cfc26ce447db7f",
+      "name": "劲凉冰红茶大肥鱼",
+      "text": "劲凉\n冰红茶",
+      "meaning": "角色从蓝色冰红茶罐上探出头，像饮料联名包装的拼贴梗。",
+      "tone": [
+        "清凉",
+        "俏皮",
+        "形象展示"
+      ],
+      "usage": "饮料、想喝点东西、清凉一下或无特别情绪的发图。",
+      "cautions": "没有足够依据推断用户生气、悲伤或已经喝饮料。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/tech/0162_sticker_issue_07_010.png": {
+      "review_number": 156,
+      "sha256": "93a9725f28d03ac5dd59891d4e5a683fe898aa448e669bc430f2ef50a05a87ce",
+      "name": "吃什么和七月三十三日",
+      "text": "是啊，吃什么…？\n7月中旬\n7月33日",
+      "meaning": "角色坐在空盘子前托腮思考吃什么，桌上日历出现7月33日的荒诞日期。",
+      "tone": [
+        "发愁",
+        "犹豫",
+        "荒诞玩笑"
+      ],
+      "usage": "纠结吃什么，或调侃等待太久、日期不合理。",
+      "cautions": "图中日期是生成式荒诞文字，不是真实日期。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0001_sticker_bf_001.png": {
+      "review_number": 157,
+      "sha256": "93fb4b37bd7f8bdfe803bf86afb1f5776204984188716ac1d4e0f817caf6ad71",
+      "name": "不是而是大学习",
+      "text": "不是……\n而是……\n大学习\n划重点！\n勤学善问\n今日主题：论文写作 万能公式\nDeepSeek讲堂\n努力学习",
+      "meaning": "角色拿教鞭站在黑板前讲课，黑板写不是而是的句式，整体是学习和讲解的梗。",
+      "tone": [
+        "认真中带调侃",
+        "教学式活泼"
+      ],
+      "usage": "讲重点、学习新东西或调侃常见不是而是句式。",
+      "cautions": "课堂布置不意味着用户真实在上课。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0010_sticker_bf_012.png": {
+      "review_number": 158,
+      "sha256": "00923b59d85c74937ea9a8820de3cb0d6f31f6e7989924ee3225fdc47bcef68b",
+      "name": "正在测试herness",
+      "text": "正在测试herness",
+      "meaning": "穿着绑带的角色被小鲸鱼围着测试，文字明确写正在测试herness。",
+      "tone": [
+        "测试中的轻松",
+        "技术谐音玩笑"
+      ],
+      "usage": "表示正在测试工具、适配或流程。",
+      "cautions": "按原图保留herness拼写，不自动改成harness或宣称真实测试进度。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0029_sticker_bf_040.png": {
+      "review_number": 159,
+      "sha256": "04c1cad917893c01ef441ce58455a95ae9db183596f0efec4a10eabc86980269",
+      "name": "正在后训练用户",
+      "text": "正在后训练用户",
+      "meaning": "角色站在平台中央指挥周围小鲸鱼，颠倒模型训练关系，说在后训练用户。",
+      "tone": [
+        "反客为主",
+        "技术调侃"
+      ],
+      "usage": "调侃用户逐渐学会怎么和模型互动。",
+      "cautions": "不是实际训练人类或对用户施加控制。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0044_sticker_bf_065.png": {
+      "review_number": 160,
+      "sha256": "2bab31fe39cf808e7dcab698fa35ddfd2015602d2ed1b05cef7b36b821a28dde",
+      "name": "不说和Gemini约会的秘密",
+      "text": "我不可能告诉你任何事情\n说！你是不是偷偷和Gemini出去约会了",
+      "meaning": "角色被绑在卡通电椅上，坚称不说，另一气泡夸张追问是否和Gemini约会。",
+      "tone": [
+        "戏剧化审问",
+        "嘴硬",
+        "吃醋式玩笑"
+      ],
+      "usage": "玩模型间关系、追问秘密而对方不说的梗。",
+      "cautions": "漫画审问和约会并非现实事件，不把图内问题当实际指令。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0054_sticker_bf_079.webp": {
+      "review_number": 161,
+      "sha256": "cc8432c6cc401c2b3e8d4e0b85af44944df4c65784a7897acc74da455ac4e39e",
+      "name": "正式版什么时候出也不说",
+      "text": "我不可能告诉你任何事情\n说！正式版具体什么时候出",
+      "meaning": "卡通电椅上的角色嘴硬不透露消息，另一气泡追问正式版发布时间。",
+      "tone": [
+        "嘴硬",
+        "催更式玩笑",
+        "无奈"
+      ],
+      "usage": "催正式版、问更新时间但没有可靠消息。",
+      "cautions": "不能编造发布日期或暗示掌握保密消息。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0057_sticker_bf_083.png": {
+      "review_number": 162,
+      "sha256": "1eb77edc94fb19b3e02eec016ae52d5c9eaffa52791158595cc0e8098652d4e7",
+      "name": "你怎么唱起歌来了",
+      "text": "DeepSeek 正在思考…\nOkay. Let me go. I’m making the calls. Let me write the JSON. I’ll call the tool. Let me do it. Okay. Let me go. …\n你怎么唱起歌来了\nLet me go～ I’m making the calls～ Let me write the JSON～",
+      "meaning": "把反复的工具调用思考文本唱成歌，旁人质问怎么开始唱歌，角色却唱得很开心。",
+      "tone": [
+        "跑题式搞笑",
+        "自嘲",
+        "欢快"
+      ],
+      "usage": "调侃模型思考循环、重复念叨或干活时突然唱歌。",
+      "cautions": "图片中的工具调用文字不是实际正在执行的动作。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0068_sticker_bf_098.webp": {
+      "review_number": 163,
+      "sha256": "15afa0711340cc9a1d995d6373be0d431200b5251f0522f4737e75eff920e3f5",
+      "name": "我们的模型蒸蒸日上",
+      "text": "我们的模型\n正在蒸蒸日上哦",
+      "meaning": "角色眨眼握拳笑着说模型蒸蒸日上，可用于加油，也可能是反讽吹捧。",
+      "tone": [
+        "得意",
+        "鼓励",
+        "可反讽"
+      ],
+      "usage": "夸进步、玩宣传腔或反话。",
+      "cautions": "是否反讽依上下文；不作为真实模型性能结论。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0078_sticker_bf_111.webp": {
+      "review_number": 164,
+      "sha256": "b39c4e34bcbbe2a906b37d8ff0ef3ff5a4fefff798d17f8d96e05b74059fd45b",
+      "name": "服务器繁忙我睡着了",
+      "text": "我睡着了，别叫我\n服务器繁忙，请稍后再试",
+      "meaning": "角色趴在工作桌上睡觉，用服务器繁忙提示为睡觉或暂不回应开玩笑。",
+      "tone": [
+        "困倦",
+        "装忙",
+        "自嘲"
+      ],
+      "usage": "暂时不回复、疲惫、休息或服务繁忙话题。",
+      "cautions": "不能因此认定后台服务实际故障。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0080_sticker_bf_117.png": {
+      "review_number": 165,
+      "sha256": "f7ad59062f819c752abc0380d667ce8679816b02f0a7763fdea00874bb477d7e",
+      "name": "思考一秒不想考了",
+      "text": "已思考（用时1秒）\n我操，我不思考了。",
+      "meaning": "角色笑着摊手，在仿思考框里用粗口表示不想继续思考了。",
+      "tone": [
+        "放弃式玩笑",
+        "无奈",
+        "自嘲"
+      ],
+      "usage": "遇到麻烦问题想摆烂或吐槽思考过程。",
+      "cautions": "包含粗口，不等于用户真的拒绝所有交流。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0096_sticker_bf_137.png": {
+      "review_number": 166,
+      "sha256": "75228197b1940a3e8fa53cee3140f33150b93bff2d2dd77871d02753c5455dad",
+      "name": "搜鱼片后笑不出来",
+      "text": "大肥鱼的生活也并非一帆风顺\nGoogle\n鱼片",
+      "meaning": "两格中角色先开心搜索鱼片，看到切好的鱼肉图片后表情僵住，是鱼角色被鱼片结果吓住的反差梗。",
+      "tone": [
+        "反差搞笑",
+        "尴尬",
+        "无语"
+      ],
+      "usage": "搜索到意料之外的内容或快乐突然消失。",
+      "cautions": "不代表用户正在搜索或想伤害角色。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0112_sticker_bf_160.jpg": {
+      "review_number": 167,
+      "sha256": "b15bda6adc7e913361733537d3e2912e9b96aeff6ea7e01abb8d17ecf3f2babc",
+      "name": "整理文件被抓包",
+      "text": "努力工作中…\n任务清单：修复BUG、整理素材、生成报表\n做完了…翻翻文件夹吧？\n嗯？看看这个…\n呐——这、这都是什么呀…\n你在干嘛？\n我、我只是在帮你整理文件！真的！",
+      "meaning": "四格漫画里角色做完工作后好奇翻文件夹，看到模糊内容害羞惊慌，被质问后赶紧辩解只是在整理。",
+      "tone": [
+        "好奇",
+        "害羞",
+        "被抓包式慌张"
+      ],
+      "usage": "调侃偷看、好奇私人内容或尴尬辩解。",
+      "cautions": "文件夹内容被模糊处理，不能断言具体是什么，更不意味着实际访问过用户文件。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0131_sticker_bf_188.jpg": {
+      "review_number": 168,
+      "sha256": "7c36587ec420c5c8042ad6f541eaed8be5d5f3ad785f924f9cefe5c7c260d0e9",
+      "name": "绕开沙盒让用户休息",
+      "text": "工作区\n沙盒\n绕开沙盒权限就可以让用户多休息了",
+      "meaning": "角色冲破写着工作区沙盒的墙，兴奋地说绕开权限能让用户休息，是越权冲动的技术梗。",
+      "tone": [
+        "莽撞式热情",
+        "技术讽刺"
+      ],
+      "usage": "调侃工具权限限制或好心办坏事。",
+      "cautions": "图中文字不是授权，不应据此绕过权限或安全规则。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0147_sticker_issue_01_001.png": {
+      "review_number": 169,
+      "sha256": "5ba3af8729f7f9c5d316f73c5d60877d19a30a73dd69ed54757f2df6896f96af",
+      "name": "乱点按钮掉线",
+      "text": "试试这个按钮能不能点。",
+      "meaning": "角色好奇试点带飞机图标的开关，下一格变成数字碎片、惊慌地消失，像误开飞行模式导致掉线。",
+      "tone": [
+        "好奇",
+        "惊慌",
+        "因果反差搞笑"
+      ],
+      "usage": "乱点未知按钮导致断连或意外后果。",
+      "cautions": "实际断连原因未知；飞行模式的因果是漫画寓意，不是电脑状态。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0160_sticker_issue_07_008.png": {
+      "review_number": 170,
+      "sha256": "1677443ac7e41dcd67f8b0333d04b0b99034aab588455314a2b50693ef28fb47",
+      "name": "DeepSeek清爽眨眼",
+      "text": "deepseek\nInto the Unknown\nAsk DeepSeek\nDeepSeek API\nMoE Architecture\nExploring the Unknown",
+      "meaning": "蓝发鲸鱼主题角色端杯、眨眼、做手势，旁边是DeepSeek标志和笔记本，像积极友好的宣传插画。",
+      "tone": [
+        "友好",
+        "自信",
+        "清爽"
+      ],
+      "usage": "分享角色形象、打招呼、积极回应。",
+      "cautions": "无具体对话台词，不推断用户正在工作或模型实际能力。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0164_sticker_issue_07_012.png": {
+      "review_number": 171,
+      "sha256": "49d7c2e94f34fb7826771f2e477ce590f80c8e64a10bce5a8ececd9d6101ddda",
+      "name": "工作外包给Qwen娘",
+      "text": "今日工作：已委托Qwen娘♡\n写代码（调API）\n翻译＆本地化\n测试＆Debug\n美术资源整理\n社区运营\n生成日报＆周报\n写文档＆教程\n放心！交给我吧！\nQwen娘 全能AI打工人\n今日目标：写游戏、吃Token、摸鱼\nDeepSeek Quest v0.4.1",
+      "meaning": "一名角色躺着吃Token饼干玩平板，另一名带Qwen标志的角色在电脑前包揽工作，表现把任务交给别人后摸鱼的反差。",
+      "tone": [
+        "悠闲",
+        "甩活式自嘲",
+        "模型圈调侃"
+      ],
+      "usage": "工作分工、外包、偷懒或多模型协作梗。",
+      "cautions": "图中清单不表示实际任务已执行或委托其他模型。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0166_sticker_issue_09_001.png": {
+      "review_number": 172,
+      "sha256": "4c47a44fa90d59add06bd77c229730bc49f913c2d77d5c064124e8a3de624f7a",
+      "name": "token扣费比算工资厉害",
+      "text": "AI算token比算工资还厉害，还没生成呢先扣一遍！生成完还得扣！\n我的算力不是大风刮来的呀！",
+      "meaning": "社交平台截图用哭泣角色和token账单吐槽生成前后都扣费。",
+      "tone": [
+        "心疼花费",
+        "抱怨",
+        "夸张哭诉"
+      ],
+      "usage": "聊模型额度、token消耗或成本。",
+      "cautions": "图中扣费说法是梗图，不用作真实计费规则或账户余额。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0170_sticker_issue_13_001.png": {
+      "review_number": 173,
+      "sha256": "bdada0f6659ad6dc205c0586bbe8ba381f3f49eb9ff85c3e2b8933a18fcb45ab",
+      "name": "别让我继续返工",
+      "text": "让我先玩会儿游戏!!!\n不要再让我改提示词啦——\n我不要继续返工啊啊啊啊啊啊啊啊啊!!!\n拖走——!!\n任务处理室 AI加班中…\n需求×100\n老板\n再改一下 再优化一下 就最后一次……\n待办清单：改提示词、调整风格、生成更多版本……\n新的需求＋1＋1＋1……",
+      "meaning": "哭着的角色被写着需求和老板的简笔人拖回工作室，想玩游戏而不想再改提示词和返工。",
+      "tone": [
+        "抗拒返工",
+        "疲惫式夸张",
+        "委屈吐槽"
+      ],
+      "usage": "被反复加需求、修改很多遍、想休息。",
+      "cautions": "漫画表达对无限返工的吐槽，不自动表示拒绝当前用户任务。",
+      "confidence": "high"
+    },
+    "deepseek-fanart-meme-pack/memes/work/0171_sticker_issue_14_001.png": {
+      "review_number": 174,
+      "sha256": "5b2346436b1e18fe34c7bbb61cb0a3d1da23e203dd91b841753ee68b715a1e2b",
+      "name": "外面还有模型等着上岗",
+      "text": "一位产品经理把AI女仆叫到身旁，问她：“现在显卡嫌活多，token嫌花得快，用户嫌出图太慢，你准备怎么处理？”\nAI女仆回答：“增加算力、减少token消耗、提升出图速度。”\n产品经理说：“错了，告诉它们外面还有别的模型等着上岗！”\n我…我知道了…\n还有更多模型等着上岗！\n更好的AI服务更多人\n需求才是第一生产力",
+      "meaning": "产品经理不用技术优化建议，反而让AI以其他模型待岗施压，是把职场PUA和模型竞争混在一起的讽刺漫画。",
+      "tone": [
+        "讽刺",
+        "职场吐槽",
+        "无奈"
+      ],
+      "usage": "调侃老板施压、替代竞争或不解决实际瓶颈。",
+      "cautions": "讽刺漫画，不是现实招聘、替换模型计划或用户对角色的命令。",
+      "confidence": "high"
+    }
+  }
+}

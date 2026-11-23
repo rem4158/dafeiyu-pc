@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "layout_id": "modern-default-v1",
+  "nodes": [
+    {"type": "action", "id": "chat", "visible": true},
+    {"type": "separator", "id": "default.separator-interaction", "visible": true},
+    {
+      "type": "submenu", "id": "character_animation", "label": "角色与动画", "icon": "character", "visible": true,
+      "children": [
+        {"type": "action", "id": "character", "visible": true},
+        {"type": "action", "id": "playback_speed", "visible": true},
+        {"type": "action", "id": "size", "visible": true},
+        {"type": "separator", "id": "character_animation.separator-animation", "visible": true},
+        {"type": "action", "id": "animations_hub", "visible": true}
+      ]
+    },
+    {
+      "type": "submenu", "id": "daily_tools", "label": "日常工具", "icon": "application", "visible": true,
+      "children": [
+        {"type": "action", "id": "screen_capture", "visible": true},
+        {"type": "action", "id": "look_screen", "visible": true},
+        {"type": "action", "id": "todo_panel", "visible": true},
+        {"type": "action", "id": "weather", "visible": true},
+        {"type": "action", "id": "weather_cities", "visible": true},
+        {"type": "action", "id": "divination_draw", "visible": true},
+        {"type": "action", "id": "voice_chime_now", "visible": false},
+        {"type": "action", "id": "voice_chime_toggle", "visible": false},
+        {"type": "action", "id": "festival_now", "visible": false},
+        {"type": "action", "id": "festival_toggle", "visible": false},
+        {"type": "separator", "id": "daily_tools.separator-apps", "visible": true},
+        {
+          "type": "submenu", "id": "music", "label": "音乐", "icon": "play", "visible": true,
+          "children": [
+            {"type": "action", "id": "music_pause", "visible": true},
+            {"type": "action", "id": "music_next", "visible": true},
+            {"type": "action", "id": "music_prev", "visible": true},
+            {"type": "action", "id": "music_quit", "visible": true},
+            {"type": "action", "id": "music_lyric_align", "visible": true},
+            {"type": "separator", "id": "music.separator-launch", "visible": true},
+            {"type": "action", "id": "music_open_netease", "visible": true},
+            {"type": "action", "id": "music_open_qqmusic", "visible": true},
+            {"type": "action", "id": "music_open_kugou", "visible": true},
+            {"type": "action", "id": "music_open_soda", "visible": true}
+          ]
+        },
+        {"type": "action", "id": "quick_launch", "visible": true}
+      ]
+    },
+    {
+      "type": "submenu", "id": "pet_management", "label": "桌宠管理", "icon": "pet", "visible": true,
+      "children": [
+        {"type": "action", "id": "quiet_mode", "visible": true},
+        {
+          "type": "submenu", "id": "pet_controls", "label": "桌宠控制", "visible": true,
+          "children": [
+            {"type": "action", "id": "drag_physics", "visible": true},
+            {"type": "action", "id": "no_move", "visible": true},
+            {"type": "action", "id": "on_top", "visible": true},
+            {"type": "action", "id": "autostart", "visible": true},
+            {"type": "action", "id": "return_corner", "visible": true},
+            {"type": "action", "id": "hide_pet", "visible": true},
+            {"type": "action", "id": "spawn_pet", "visible": true},
+            {"type": "action", "id": "clear_spawned_pets", "visible": true},
+            {"type": "action", "id": "golden_spin", "visible": true},
+            {"type": "action", "id": "edge_probe", "visible": true}
+          ]
+        },
+        {"type": "action", "id": "memory_trim", "visible": true},
+        {
+          "type": "submenu", "id": "tools_help", "label": "工具与帮助", "visible": true,
+          "children": [
+            {"type": "action", "id": "balance", "visible": true},
+            {"type": "action", "id": "harness", "visible": true},
+            {"type": "action", "id": "deepseek_web", "visible": true},
+            {"type": "action", "id": "check_update", "visible": true},
+            {"type": "action", "id": "network_info", "visible": true},
+            {"type": "action", "id": "github_project", "visible": true},
+            {"type": "action", "id": "quark_download", "visible": true},
+            {"type": "separator", "id": "tools_help.separator-profile", "visible": true},
+            {"type": "action", "id": "ojingjing", "visible": true}
+          ]
+        }
+      ]
+    },
+    {"type": "separator", "id": "default.separator-tools", "visible": true},
+    {"type": "action", "id": "modern_settings", "visible": true},
+    {"type": "action", "id": "quit", "visible": true}
+  ]
+}
